@@ -1,5 +1,5 @@
 from requests import get, put
-import urlparse
+from urlparse import urlparse
 import json
 from config import __SITE
 
@@ -13,13 +13,21 @@ class CollectiveAccess(object):
 		self.header = header
 		self.sesh = requests.session()
 		self.sesh.auth = (self.user, self.passw)
+
+		self.DEFAULT_REQUEST_OPTS = {
+			site = self.base
+		    script_name: 'service.php',
+		    table_name: 'ca_objects',
+		    endpoint: 'item',
+		}
+
 		
 	def get_entities(self, q=None):
 		if not q:
 			endpoint = '/find/ca_entities?q=*'
 		else:
 			enpoint = '/find/ca_entities?q={0}'.format(q)
-		targe = urlencode(self.base, endpoint)
+		target = urlencode(self.base, endpoint)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_objects(self, q=None):
