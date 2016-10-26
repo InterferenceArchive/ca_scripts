@@ -1,67 +1,62 @@
-from requests import get, put
+import requests
 from urlparse import urlparse
 from urllib import urlencode
 import json
-from config import __SITE
 
 class CollectiveAccess(object):
 	"""creates a session for collective access actions"""
 	def __init__(self, base, user, passw, header={'content-type':'application/json'}):
-		super(CAClient, self).__init__()
-		self.base = __SITE
+		super(CollectiveAccess, self).__init__()
+		self.base = base
 		self.user = user
 		self.passw = passw
 		self.header = header
 		self.sesh = requests.session()
 		self.sesh.auth = (self.user, self.passw)
 
-		self.DEFAULT_REQUEST_OPTS = {
-			"site": self.base
-		    "script_name": "service.php",
-		    "table_name": "ca_objects",
-		    "endpoint": "item",
-		}
-
-	
-
-
-		
 	def get_entities(self, q=None):
-		if not q:
-			query = {'q':'*'}
-		else:
-			query = {'q':q}
-		target = _build_url(self.base, path, query=q)
+		query = '*' if q is None else q
+		path = _build_api_uri(endpoint='item', table='ca_entities', q={'q':query})
+		print path
+		target = urlencode(self.base, path)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_objects(self, q=None):
-		if not q:
-			endpoint = '/find/ca_objects?q=*'
-		else:
-			enpoint = '/find/ca_objects?q={0}'.format(q)
-		target = urlencode(self.base, endpoint)
+		query = '*' if q is None else q
+		path = _build_api_uri(endpoint='item', table='ca_objects', q={'q':query})
+		target = urlencode(self.base, path)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_entity(self, entity_id):
-		endpoint = '/item/ca_entities/id/{0}'.format(entity_id)
-		target = urlencode(self.base, endpoint)
+		path = _build_api_uri(endpoint='item', table='ca_entities', identifier='id', item=entity_id)
+		target = urlencode(self.base, path)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_object(self, object_id):
-		endpoint = '/item/ca_objects/id/{0}'.format(object_id)
-		target = urlencode(self.base, endpoint)
+		path = _build_api_uri(endpoint='item', table='ca_objects', identifier='id', item=object_id)
+		target = urlencode(self.base, path)
 		return self.sesh.get(target, headers=self.header)
 
 	def create_entity(self, data):
-		target = urlencode(self.base, 'item/ca_entities')
+		path = _build_api_uri(endpoint='item', table='ca_entities')
+		target = urlencode(self.base, path)
 		return self.sesh.put(target, data=data, headers=self.header)
 	
 	def create_object(self, data):
-		target = urlencode(self.base, 'item/ca_objects')
+		path = _build_api_uri(endpoint='item', table="ca_objects")
+		target = urlencode(self.base, path)
 		return self.sesh.put(target,data=data, headers=self.header)
 
 
 # helper methods
 
-def _build_api_uri(self, host, path, **kwargs):
-		pass
+def _build_api_uri(**kwargs):
+
+	path = (kwargs.pop('endpoint', ''), 
+			kwargs.pop('table', ''),
+			kwargs.pop('identifier', ''),
+			kwargs.pop('item', ''),
+			urlencode(kwargs.pop('q', {})))
+
+	# join them
+
