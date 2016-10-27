@@ -1,7 +1,7 @@
 Collective Access Client
 ========================
 
-This is a python client for interating with the collective access client for the Interference Archive. 
+This is a python client for interating with the collective access client. 
 
 It is built as a set of bindings for the [Collective Access Web Service API](http://docs.collectiveaccess.org/wiki/Web_Service_API). The Web Service API covers a lot of endpoints and interactions, many of which we probably won't need. Therefore, this is not built to be a general purpose Collective Access API. 
 
@@ -35,8 +35,4 @@ It is built as a set of bindings for the [Collective Access Web Service API](htt
 * remove an object from the catalog
 
 
-### Examples for using the client
 
-*
-*
-*
