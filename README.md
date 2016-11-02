@@ -22,7 +22,7 @@ Other, more full-fledged API clients/service wrappers may be found for [Ruby](ht
 * remove an entity from the catalog
 * remove an object from the catalog
 
-### Installing and using
+### Using
 
 Clone the script locally with: 
 
@@ -31,13 +31,13 @@ The script is standalone so you can move it whereever you might need it. It only
 
 	pip install requests
 
-If you store the script in the same directory with whatever code you want to access it, just imoprt it and be sure to enter the url where you CA **admin** page is at (that is, the Providence homepage, not Pawtucket) along with your login credentials:
+If you store the script in the same directory with whatever code you want to access it, just import it and be sure to enter the url where you CA **admin** page is at (that is, the Providence homepage, not Pawtucket) along with your login credentials as in this example:
 
 	import collectiveaccess
 
 	client = collectiveaccess.CollectiveAccess('https://myCAcatalog.org/admin_home', 'myusername', 'mypass')
 
-### Methods
+### Methods (what you can do with the client once it's connected)
 
 #### get_entities()
 Allows you to search over all entities in your Collective Access site (without a query string, it returns everything):
@@ -79,6 +79,7 @@ Returns
 
 #### create_entity()
 Send it a dictionary of data for creating a new entity and it encodes to json and creates an entity in the catalog:
+	
 	data = {''}
 	client.create_entity(data)
 
@@ -88,6 +89,7 @@ Returns
 
 #### create_object()
 Send it a dictionary of data for creating a new object and it encodes to json and creates an object in the catalog:
+	
 	data = {''}
 	client.create_object(data)
 
@@ -97,16 +99,18 @@ Returns
 
 #### update_entity()
 Provide updated dictionary data for an entity (see `get_entity()`) and entity ID for entity to update and it will modify that record in the catalog:
+	
 	data = {}
 	client.update_entity(10, data)
 
 Returns:
 
-	....
+	...
 
 
 #### update_object()
 Provide updated dictionary data for an object (see `get_object()`) and object ID for object to update and it will modify that record in the catalog:
+	
 	data = {}
 	client.update_object(655, data)
 
