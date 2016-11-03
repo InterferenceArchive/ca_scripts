@@ -1,5 +1,9 @@
-Collective Access Client
-========================
+Collective Access Scripts
+=========================
+
+Scripts and documentation for programmatically interacting with the [Interference Archive Catalog](https://catalog.interferencearchive.org/), build with Collective Access.
+
+## Collective Access Client
 
 This is a python client for interating with the collective access client. 
 
