@@ -1,7 +1,7 @@
 Collective Access Scripts
 =========================
 
-Scripts and documentation for programmatically interacting with the [Interference Archive Catalog](https://catalog.interferencearchive.org/), build with Collective Access.
+Scripts and documentation for programmatically interacting with the [Interference Archive Catalog](https://catalog.interferencearchive.org/), built with Collective Access.
 
 ## Collective Access Client
 
