@@ -1,0 +1,1992 @@
+{
+  "ok":true,
+  "preferred_labels":{
+    "en_US":[
+      "Prison and prisoners' movements"
+    ]
+  },
+  "collection_id":{
+    "value":"30"
+  },
+  "type_id":{
+    "value":"461",
+    "display_text":{
+      "en_US":"Subject Guide"
+    }
+  },
+  "idno":[
+    
+  ],
+  "idno_sort":[
+    
+  ],
+  "hier_collection_id":{
+    "value":"30"
+  },
+  "hier_left":{
+    "value":"1.00000000000000000000"
+  },
+  "hier_right":{
+    "value":"101.00000000000000000000"
+  },
+  "access":{
+    "value":"1",
+    "display_text":{
+      "en_US":"accessible to public"
+    }
+  },
+  "status":{
+    "value":"1",
+    "display_text":{
+      "en_US":"editing in progress"
+    }
+  },
+  "deleted":{
+    "value":"0"
+  },
+  "rank":{
+    "value":"0"
+  },
+  "acl_inherit_from_parent":{
+    "value":"0"
+  },
+  "ca_collections.notes":[
+    {
+      "en_US":[
+        
+      ]
+    }
+  ],
+  "related":{
+    "ca_objects":[
+      {
+        "item_type_id":"435",
+        "object_id":"190",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.74",
+        "relation_id":"100",
+        "name":"4Strugglemag Issue 20: Winter 2011\/12",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"4Strugglemag Issue 20: Winter 2011\/12"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"4Strugglemag Issue 20: Winter 2011\/12"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"213",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.97",
+        "relation_id":"101",
+        "name":"Interview with Father Patrick Moloney",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Interview with Father Patrick Moloney"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Interview with Father Patrick Moloney"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"221",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.199",
+        "relation_id":"102",
+        "name":"Conspiracy of Voices: Poetry, Writings, and Art by the Women of the Resistance Conspiracy Case",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Conspiracy of Voices: Poetry, Writings, and Art by the Women of the Resistance Conspiracy Case"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Conspiracy of Voices: Poetry, Writings, and Art by the Women of the Resistance Conspiracy Case"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"231",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.194",
+        "relation_id":"103",
+        "name":"Dissent is Not a Crime: The International Campaign to Free Puerto Rican Political Prisoners",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Dissent is Not a Crime: The International Campaign to Free Puerto Rican Political Prisoners"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Dissent is Not a Crime: The International Campaign to Free Puerto Rican Political Prisoners"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"20",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.107",
+        "relation_id":"104",
+        "name":"We Who Would Take No Prisoners: Selections from the Fifth International Conference on Penal Abolition",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"We Who Would Take No Prisoners: Selections from the Fifth International Conference on Penal Abolition"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"We Who Would Take No Prisoners: Selections from the Fifth International Conference on Penal Abolition"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"186",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.70",
+        "relation_id":"105",
+        "name":"The Struggle is For Land and Socialism! An Interview with the New Afrikan Prisoners Organization (N.A.P.O.)",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"The Struggle is For Land and Socialism! An Interview with the New Afrikan Prisoners Organization (N.A.P.O.)"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"The Struggle is For Land and Socialism! An Interview with the New Afrikan Prisoners Organization (N.A.P.O.)"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"21",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.1",
+        "relation_id":"106",
+        "name":"Abolition Democracy: Beyond Empire, Prisons, and Torture",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Abolition Democracy: Beyond Empire, Prisons, and Torture"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Abolition Democracy: Beyond Empire, Prisons, and Torture"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"19",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.106",
+        "relation_id":"107",
+        "name":"Penal Abolition: The Practical Choice",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Penal Abolition: The Practical Choice"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Penal Abolition: The Practical Choice"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"98",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.161",
+        "relation_id":"50",
+        "name":"So. Chicago ABC Zine Distro 2006 Catalog",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"So. Chicago ABC Zine Distro 2006 Catalog"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"So. Chicago ABC Zine Distro 2006 Catalog"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"84",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.147",
+        "relation_id":"51",
+        "name":"USA: Police Brutality in Los Angeles, California United States of America",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"USA: Police Brutality in Los Angeles, California United States of America"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"USA: Police Brutality in Los Angeles, California United States of America"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"85",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.148",
+        "relation_id":"52",
+        "name":"Take Action to Prevent COINTELPRO",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Take Action to Prevent COINTELPRO"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Take Action to Prevent COINTELPRO"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"86",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.149",
+        "relation_id":"53",
+        "name":"If An Agent Knocks: Federal Investigators and Your Rights",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"If An Agent Knocks: Federal Investigators and Your Rights"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"If An Agent Knocks: Federal Investigators and Your Rights"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"87",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.150",
+        "relation_id":"54",
+        "name":"Grand Jury Investigations, FBI Harassment, and Your Rights",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Grand Jury Investigations, FBI Harassment, and Your Rights"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Grand Jury Investigations, FBI Harassment, and Your Rights"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"88",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.151",
+        "relation_id":"55",
+        "name":"Government Repression Prisoner Support",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Government Repression Prisoner Support"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Government Repression Prisoner Support"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"89",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.152",
+        "relation_id":"56",
+        "name":"Where is Liberty? The prosecution of Irish Republicans in the United States",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Where is Liberty? The prosecution of Irish Republicans in the United States"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Where is Liberty? The prosecution of Irish Republicans in the United States"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"90",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.153",
+        "relation_id":"57",
+        "name":"Rizzo and the Police State",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Rizzo and the Police State"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Rizzo and the Police State"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"91",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.154",
+        "relation_id":"58",
+        "name":"We Are Striving for a Society in Which Prisons Would Not Be Needed and Could Not Be Justified",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"We Are Striving for a Society in Which Prisons Would Not Be Needed and Could Not Be Justified"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"We Are Striving for a Society in Which Prisons Would Not Be Needed and Could Not Be Justified"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"92",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.155",
+        "relation_id":"59",
+        "name":"Free Write: Jail Arts & Literacy Magazine",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Free Write: Jail Arts & Literacy Magazine"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Free Write: Jail Arts & Literacy Magazine"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"93",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.156",
+        "relation_id":"60",
+        "name":"Busted! Youth & The Law in Illinois",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Busted! Youth & The Law in Illinois"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Busted! Youth & The Law in Illinois"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"94",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.157",
+        "relation_id":"61",
+        "name":"Redbird Prison Abolition",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Redbird Prison Abolition"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Redbird Prison Abolition"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"95",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.158",
+        "relation_id":"62",
+        "name":"PPWC Activist Directory",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"PPWC Activist Directory"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"PPWC Activist Directory"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"96",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.159",
+        "relation_id":"63",
+        "name":"PPWC Activist Directory",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"PPWC Activist Directory"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"PPWC Activist Directory"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"97",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.160",
+        "relation_id":"64",
+        "name":"Pennsylvania Prison Directory Action",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Pennsylvania Prison Directory Action"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Pennsylvania Prison Directory Action"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"132",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.16",
+        "relation_id":"65",
+        "name":"A Crack in the Concrete 2005",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"A Crack in the Concrete 2005"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"A Crack in the Concrete 2005"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"133",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.17",
+        "relation_id":"66",
+        "name":"Glee Club",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Glee Club"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Glee Club"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"134",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.18",
+        "relation_id":"67",
+        "name":"Prisoner Within",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prisoner Within"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prisoner Within"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"136",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.20",
+        "relation_id":"68",
+        "name":"Prisoner Within",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prisoner Within"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prisoner Within"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"137",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.21",
+        "relation_id":"69",
+        "name":"Prisoner Within",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prisoner Within"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prisoner Within"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"138",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.22",
+        "relation_id":"70",
+        "name":"Prisoner Within",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prisoner Within"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prisoner Within"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"139",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.23",
+        "relation_id":"71",
+        "name":"In the Trenches... Communiques by Ali Khalid Abdullah",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"In the Trenches... Communiques by Ali Khalid Abdullah"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"In the Trenches... Communiques by Ali Khalid Abdullah"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"140",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.24",
+        "relation_id":"72",
+        "name":"You Will Only Get My Corpse",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"You Will Only Get My Corpse"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"You Will Only Get My Corpse"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"144",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.28",
+        "relation_id":"73",
+        "name":"Essays & Poetry Composed by New Afrikan Gamba Mateen Rastafari",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Essays & Poetry Composed by New Afrikan Gamba Mateen Rastafari"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Essays & Poetry Composed by New Afrikan Gamba Mateen Rastafari"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"145",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.29",
+        "relation_id":"74",
+        "name":"Two Essays by Kevin (Rashid) Johnson",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Two Essays by Kevin (Rashid) Johnson"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Two Essays by Kevin (Rashid) Johnson"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"146",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.30",
+        "relation_id":"75",
+        "name":"A Dossier of Struggle",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"A Dossier of Struggle"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"A Dossier of Struggle"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"147",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.31",
+        "relation_id":"76",
+        "name":"Prison Poster Project: Understanding the Big Picture",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison Poster Project: Understanding the Big Picture"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prison Poster Project: Understanding the Big Picture"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"148",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.32",
+        "relation_id":"77",
+        "name":"Prison Justice Day",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison Justice Day"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prison Justice Day"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"112",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.175",
+        "relation_id":"78",
+        "name":"Hope Breathing Life: Postcards for Liberation ",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Hope Breathing Life: Postcards for Liberation "
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Hope Breathing Life: Postcards for Liberation "
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"113",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.176",
+        "relation_id":"79",
+        "name":"Who is the New Afrikan?",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Who is the New Afrikan?"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Who is the New Afrikan?"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"114",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.177",
+        "relation_id":"80",
+        "name":"The Last Mile",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"The Last Mile"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"The Last Mile"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"135",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.19",
+        "relation_id":"81",
+        "name":"Prisoner Within",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prisoner Within"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prisoner Within"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"141",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.25",
+        "relation_id":"82",
+        "name":"Ohio: Part One",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Ohio: Part One"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Ohio: Part One"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"142",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.26",
+        "relation_id":"83",
+        "name":"Ohio: Part Two",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Ohio: Part Two"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Ohio: Part Two"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"143",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.27",
+        "relation_id":"84",
+        "name":"Ohio: Part Three",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Ohio: Part Three"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Ohio: Part Three"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"150",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.34",
+        "relation_id":"85",
+        "name":"Leavenworth Rebellion and the Case of the Leavenworth Brothers",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Leavenworth Rebellion and the Case of the Leavenworth Brothers"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Leavenworth Rebellion and the Case of the Leavenworth Brothers"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"151",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.35",
+        "relation_id":"86",
+        "name":"Alabama's Atticas: The Case of the Atmore-Holman Brothers",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Alabama's Atticas: The Case of the Atmore-Holman Brothers"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Alabama's Atticas: The Case of the Atmore-Holman Brothers"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"153",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.37",
+        "relation_id":"87",
+        "name":"Race Treason Behind Prison Walls ",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Race Treason Behind Prison Walls "
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Race Treason Behind Prison Walls "
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"154",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.38",
+        "relation_id":"88",
+        "name":"A Story of Attica",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"A Story of Attica"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"A Story of Attica"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"149",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.33",
+        "relation_id":"89",
+        "name":"Attica: The Struggle for Justice Continues",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica: The Struggle for Justice Continues"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica: The Struggle for Justice Continues"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"152",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.36",
+        "relation_id":"90",
+        "name":"The Stockade Stood Burning: Rebellion and the Convict Lease in Tennessee's Coalfields, 1891-1895",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"The Stockade Stood Burning: Rebellion and the Convict Lease in Tennessee's Coalfields, 1891-1895"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"The Stockade Stood Burning: Rebellion and the Convict Lease in Tennessee's Coalfields, 1891-1895"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"155",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.40",
+        "relation_id":"91",
+        "name":"Lucasville Uprising",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Lucasville Uprising"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Lucasville Uprising"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"156",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.41",
+        "relation_id":"92",
+        "name":"Voices of the Lucasville Uprising Vol. 1",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Voices of the Lucasville Uprising Vol. 1"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Voices of the Lucasville Uprising Vol. 1"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"157",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.42",
+        "relation_id":"93",
+        "name":"Voices of the Lucasville Uprising Vol. 2",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Voices of the Lucasville Uprising Vol. 2"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Voices of the Lucasville Uprising Vol. 2"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"158",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.43",
+        "relation_id":"94",
+        "name":"Voices of the Lucasville Uprising Vol. 3",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Voices of the Lucasville Uprising Vol. 3"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Voices of the Lucasville Uprising Vol. 3"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"159",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.44",
+        "relation_id":"95",
+        "name":"Who Are the Indiana Six",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Who Are the Indiana Six"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Who Are the Indiana Six"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"165",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.50",
+        "relation_id":"96",
+        "name":"An appeal for justice ",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"An appeal for justice "
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"An appeal for justice "
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"167",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.52",
+        "relation_id":"97",
+        "name":"PPWC Activist Directory",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"PPWC Activist Directory"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"PPWC Activist Directory"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"172",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.57",
+        "relation_id":"98",
+        "name":"No Death Penalty for Zolo Azania!!",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"No Death Penalty for Zolo Azania!!"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"No Death Penalty for Zolo Azania!!"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"174",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.59",
+        "relation_id":"99",
+        "name":"New Afrikan Political Prisoners & Prisoners of War Profiles",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"New Afrikan Political Prisoners & Prisoners of War Profiles"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"New Afrikan Political Prisoners & Prisoners of War Profiles"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"270",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.234",
+        "relation_id":"108",
+        "name":"United Prisoners Union",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"United Prisoners Union"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"United Prisoners Union"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"284",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.247",
+        "relation_id":"109",
+        "name":"Certain Days: the 2012 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2012 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2012 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"286",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.249",
+        "relation_id":"110",
+        "name":"Certain Days: the 2011 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2011 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2011 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"285",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.248",
+        "relation_id":"111",
+        "name":"Certain Days: the 2010 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2010 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2010 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"287",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.250",
+        "relation_id":"112",
+        "name":"Certain Days: the 2009 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2009 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2009 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"288",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.251",
+        "relation_id":"113",
+        "name":"Certain Days: the 2012 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2012 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2012 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"289",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.252",
+        "relation_id":"114",
+        "name":"Certain Days: the 2011 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2011 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2011 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"290",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.253",
+        "relation_id":"115",
+        "name":"2005 Freedom for Political Prisoners & Prisoners of War Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"2005 Freedom for Political Prisoners & Prisoners of War Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"2005 Freedom for Political Prisoners & Prisoners of War Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"291",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.254",
+        "relation_id":"116",
+        "name":"Certain Days: the 2008 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2008 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2008 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"292",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.255",
+        "relation_id":"117",
+        "name":"Certain Days: the 2008 freedom for Political Prisoners Calendar",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Certain Days: the 2008 freedom for Political Prisoners Calendar"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Certain Days: the 2008 freedom for Political Prisoners Calendar"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"293",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.256",
+        "relation_id":"118",
+        "name":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 12]",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 12]"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 12]"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"294",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.257",
+        "relation_id":"119",
+        "name":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 13]",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 13]"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Off the Hook: The Newsletter of the Missouri Prisoners' Labor Union [Issue 13]"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"295",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.258",
+        "relation_id":"120",
+        "name":"Prison-Industrial Complex",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison-Industrial Complex"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prison-Industrial Complex"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"299",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.260",
+        "relation_id":"121",
+        "name":"Prison News Service [No. 46]",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison News Service [No. 46]"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Prison News Service [No. 46]"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"301",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.262",
+        "relation_id":"124",
+        "name":"Abolish! Newsletter of the National Campaign to Stop Control Unit Prisons",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Abolish! Newsletter of the National Campaign to Stop Control Unit Prisons"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Abolish! Newsletter of the National Campaign to Stop Control Unit Prisons"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"303",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.264",
+        "relation_id":"125",
+        "name":"Exposing \"Little Guantanamo:\" Inside the CMU",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Exposing \"Little Guantanamo:\" Inside the CMU"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Exposing \"Little Guantanamo:\" Inside the CMU"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"304",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.265",
+        "relation_id":"126",
+        "name":"What is Wrong with TAMMS Supermax Prison",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"What is Wrong with TAMMS Supermax Prison"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"What is Wrong with TAMMS Supermax Prison"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"305",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.266",
+        "relation_id":"127",
+        "name":"Marion Prison: Inside the Lockdown!",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Marion Prison: Inside the Lockdown!"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Marion Prison: Inside the Lockdown!"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"307",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.268",
+        "relation_id":"128",
+        "name":"Locked Down Forever",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Locked Down Forever"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Locked Down Forever"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"308",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.269",
+        "relation_id":"129",
+        "name":"AGONY",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"AGONY"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"AGONY"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"309",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.270",
+        "relation_id":"130",
+        "name":"Live in your bathroom for life.",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Live in your bathroom for life."
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Live in your bathroom for life."
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"311",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.272",
+        "relation_id":"131",
+        "name":"Libertad Para Las Prisoneras Politicas! Free Angela Y. Davis 25th Anniversary",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Libertad Para Las Prisoneras Politicas! Free Angela Y. Davis 25th Anniversary"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Libertad Para Las Prisoneras Politicas! Free Angela Y. Davis 25th Anniversary"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"312",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.273",
+        "relation_id":"132",
+        "name":"Free the People Free the Land! Free Leonard Peltier Prisoner of War",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Free the People Free the Land! Free Leonard Peltier Prisoner of War"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Free the People Free the Land! Free Leonard Peltier Prisoner of War"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"313",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.274",
+        "relation_id":"133",
+        "name":"Independencia y Socialismo para Puerto Rico",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Independencia y Socialismo para Puerto Rico"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Independencia y Socialismo para Puerto Rico"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"314",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.275",
+        "relation_id":"134",
+        "name":"Stop the Execution! Free Mumia Abu-Jamal!",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Stop the Execution! Free Mumia Abu-Jamal!"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Stop the Execution! Free Mumia Abu-Jamal!"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"315",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.276",
+        "relation_id":"135",
+        "name":"Free the SF8",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Free the SF8"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Free the SF8"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"316",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.277",
+        "relation_id":"136",
+        "name":"Free All the Angola 3",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Free All the Angola 3"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Free All the Angola 3"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"317",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.278",
+        "relation_id":"137",
+        "name":"If They Come for You in the Morning: Benefit Gallery Show for Daniel McGowan",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"If They Come for You in the Morning: Benefit Gallery Show for Daniel McGowan"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"If They Come for You in the Morning: Benefit Gallery Show for Daniel McGowan"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"318",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.279",
+        "relation_id":"138",
+        "name":"To Hell With Their Profits\/ Stop the Forced Drugging of Psychiatric Inmates!",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"To Hell With Their Profits\/ Stop the Forced Drugging of Psychiatric Inmates!"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"To Hell With Their Profits\/ Stop the Forced Drugging of Psychiatric Inmates!"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"319",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.280",
+        "relation_id":"139",
+        "name":"On 10\/10\/08 Demand Freedom!",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"On 10\/10\/08 Demand Freedom!"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"On 10\/10\/08 Demand Freedom!"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"320",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.281",
+        "relation_id":"140",
+        "name":"Attica: The Struggle Continues",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica: The Struggle Continues"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica: The Struggle Continues"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"321",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.282",
+        "relation_id":"141",
+        "name":"Attica: The Struggle Continues",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica: The Struggle Continues"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica: The Struggle Continues"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"328",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.289",
+        "relation_id":"142",
+        "name":"Remember \"ATTICA\" ",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Remember \"ATTICA\" "
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Remember \"ATTICA\" "
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"330",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.291",
+        "relation_id":"143",
+        "name":"Free the Atmore-Holman Brothers",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Free the Atmore-Holman Brothers"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Free the Atmore-Holman Brothers"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"395",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.356",
+        "relation_id":"144",
+        "name":"\"George Jackson Lives!\" T-shirt",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"\"George Jackson Lives!\" T-shirt"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"\"George Jackson Lives!\" T-shirt"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"410",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.371",
+        "relation_id":"145",
+        "name":"A Report from Inside Attica",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"A Report from Inside Attica"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"A Report from Inside Attica"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"411",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.372",
+        "relation_id":"146",
+        "name":"Attica News",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica News"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica News"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"413",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.374",
+        "relation_id":"147",
+        "name":"Attica Brothers",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica Brothers"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica Brothers"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"415",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.376",
+        "relation_id":"148",
+        "name":"Attica",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Attica"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Attica"
+      },
+      {
+        "item_type_id":"435",
+        "object_id":"777",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.722",
+        "relation_id":"151",
+        "name":"Dignity and Power",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Dignity and Power"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Dignity and Power"
+      },
+      {
+        "item_type_id":"433",
+        "object_id":"774",
+        "relationship_type_id":"100",
+        "idno":"IA.ITM.719",
+        "relation_id":"152",
+        "name":"Dignity and Power",
+        "locale_id":"1",
+        "row_id":"30",
+        "labels":{
+          "1":"Dignity and Power"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"contains",
+        "relationship_type_code":"part_of",
+        "label":"Dignity and Power"
+      }
+    ],
+    "ca_entities":[
+      {
+        "item_type_id":"81",
+        "entity_id":"399",
+        "relationship_type_id":"136",
+        "relation_id":"5",
+        "displayname":"Redbird Prison Abolition",
+        "locale_id":"1",
+        "surname":"Redbird Prison Abolition",
+        "row_id":"30",
+        "labels":{
+          "1":"Redbird Prison Abolition"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Redbird Prison Abolition"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"404",
+        "relationship_type_id":"136",
+        "relation_id":"6",
+        "displayname":"South Chicago ABC Collective",
+        "locale_id":"1",
+        "surname":"South Chicago ABC Collective",
+        "row_id":"30",
+        "labels":{
+          "1":"South Chicago ABC Collective"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"South Chicago ABC Collective"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"387",
+        "relationship_type_id":"136",
+        "relation_id":"7",
+        "displayname":"Sacramento Prisoner Support",
+        "locale_id":"1",
+        "surname":"Sacramento Prisoner Support",
+        "row_id":"30",
+        "labels":{
+          "1":"Sacramento Prisoner Support"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Sacramento Prisoner Support"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"396",
+        "relationship_type_id":"136",
+        "relation_id":"8",
+        "displayname":"Prison Activist Resource Center",
+        "locale_id":"1",
+        "surname":"Prison Activist Resource Center",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison Activist Resource Center"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Prison Activist Resource Center"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"400",
+        "relationship_type_id":"136",
+        "relation_id":"9",
+        "displayname":"Political Prisoners Of War Coalition",
+        "locale_id":"1",
+        "surname":"Political Prisoners Of War Coalition",
+        "row_id":"30",
+        "labels":{
+          "1":"Political Prisoners Of War Coalition"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Political Prisoners Of War Coalition"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"416",
+        "relationship_type_id":"136",
+        "relation_id":"10",
+        "displayname":"Prison Creative Arts Project",
+        "locale_id":"1",
+        "surname":"Prison Creative Arts Project",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison Creative Arts Project"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Prison Creative Arts Project"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"431",
+        "relationship_type_id":"136",
+        "relation_id":"11",
+        "displayname":"Prison Poster Project",
+        "locale_id":"1",
+        "surname":"Prison Poster Project",
+        "row_id":"30",
+        "labels":{
+          "1":"Prison Poster Project"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Prison Poster Project"
+      },
+      {
+        "item_type_id":"81",
+        "entity_id":"1910",
+        "relationship_type_id":"136",
+        "relation_id":"13",
+        "displayname":"Dignity and Power Now",
+        "locale_id":"1",
+        "surname":"Dignity and Power Now",
+        "row_id":"30",
+        "labels":{
+          "1":"Dignity and Power Now"
+        },
+        "_key":"relation_id",
+        "direction":"rtol",
+        "relationship_typename":"is related to",
+        "relationship_type_code":"related",
+        "label":"Dignity and Power Now"
+      }
+    ]
+  }
+}
