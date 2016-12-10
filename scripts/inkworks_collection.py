@@ -18,34 +18,29 @@ relations defined as
 
 
 '''
-{
-	"collection_id": {
-		"value": "<COLLECTION_ID>"
-	},
-	"type_id": {
-		"value": "461",
-		"display_text": {
-			"en_US": "Subject Guide"
-		}
-	},
-	"hier_collection_id": {
-		"value": "30"
-	},
-	"related": {
-		"ca_objects": [{
-			"item_type_id": "435",
-			"object_id": "<OBJECT_ID>",
-			"relationship_type_id": "100",
-			"idno": "<IDNO>",
-			"relation_id": "100"
-		}, {
-			"item_type_id": "435",
-			"object_id": "<OBJECT_ID>",
-			"relationship_type_id": "100",
-			"idno": "<IDNO>",
-			"relation_id": "100"
-		}]
-	}
+{  
+   "intrinsic_fields":{  
+      "type_id":461,
+      "access":"1",
+      "status":"4"
+   },
+   "related":{  
+      "ca_objects":[  
+         {  
+            "object_id":982,
+            "type_id":100
+         },
+         {  
+            "object_id":983,
+            "type_id":100
+         },
+         {  
+            "object_id":984,
+            "type_id":100
+         },
+         {...}
+      ]
+   }
 }
 '''
 
