@@ -29,7 +29,9 @@ See [subject_terms_2016_12_11.csv]() (needs to be cleaned up)
 ### Notes to the notes
 
 [1] For more information on the data model, you can refer to `datamodel.conf` in Providence.
+
 [2] This is also true if we examine the uniqueness of the `value_id` field for the table. 
+
 [3] Though this is before any much needed string reconcilliation, so this number might actually be lower (e.g., we would consider the string 'Anti-globalization' and 'Anti-globablization   ' to be the same, but with the extra whitespace, they are probably considered different strings iby the database). We should be able to clean some of this up in the database with:
     
     UPDATE `ca_attribute_values` SET `value_longtext1` = LOWER(TRIM(`value_longtext1`));
