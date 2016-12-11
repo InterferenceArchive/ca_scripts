@@ -15,8 +15,8 @@ There are **61** total, unique attribute records with the same value, leading us
 
 ### Stats
 
-- Of 2240 subject terms entered across all objects as of 2016-12-11, there are 857 unique subject terms in use.[3] 
-- 
+Of 2240 subject terms entered across all objects as of 2016-12-11, there are 857 unique subject terms in use.[3] 
+ 
 
 
 Used this query to dump information about all subject terms and the objects they are related to:
