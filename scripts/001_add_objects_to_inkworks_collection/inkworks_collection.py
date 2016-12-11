@@ -5,7 +5,7 @@ import argparse
 
 '''
 script to relate all ingested Inkworks Press objects
-to the Inkworks Press Collection (collection_id = )
+to the Inkworks Press Collection (collection_id = 39 )
 
 relations defined as
 	"item_type_id":"435",
