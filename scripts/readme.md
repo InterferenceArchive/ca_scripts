@@ -1,4 +1,5 @@
 Put scripts here, use client in parent directory for easy connection and modification
 
+### Scripts
 
-...more instructions to come.
+- 001: Add objects to inkworks collection

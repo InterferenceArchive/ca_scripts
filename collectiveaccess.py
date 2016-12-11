@@ -49,7 +49,6 @@ class CollectiveAccess(object):
 		query = '*' if q is None else q
 		path = _build_api_uri(endpoint='find', table='ca_entities', q={'q':query})
 		target = os.path.join(self.base, path)
-		print target
 		return self._request_get(target, headers=self.header)
 
 	def get_objects(self, q=None):
@@ -91,6 +90,12 @@ class CollectiveAccess(object):
 
 	def update_object(self, object_id, data):
 		path = _build_api_uri(endpoint='item', table='ca_objects', identifier='id', item=object_id)
+		data = json.dumps(data)
+		target = os.path.join(self.base, path)
+		return self._request_put(target, data=data, headers=self.header)
+
+	def update_collection(self, collection_id, data):
+		path = _build_api_uri(endpoint='item', table='ca_collections', identifier='id', item=collection_id)
 		data = json.dumps(data)
 		target = os.path.join(self.base, path)
 		return self._request_put(target, data=data, headers=self.header)
