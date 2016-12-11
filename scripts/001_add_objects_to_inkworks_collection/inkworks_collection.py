@@ -7,12 +7,6 @@ import argparse
 script to relate all ingested Inkworks Press objects
 to the Inkworks Press Collection (collection_id = 39 )
 
-relations defined as
-	"item_type_id":"435",
-    "object_id":"<OBJECT_ID>",
-    "relationship_type_id":"100",
-    "idno":"<IDNO>",
-
 RUN WITH: `python -m ca_scripts.scripts.001_add_objects_to_inkworks_collection.inkworks_collection -u <USER> -p <PASSWORD>` outside of this folder
 '''
 
