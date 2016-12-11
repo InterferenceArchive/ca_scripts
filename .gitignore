@@ -3,4 +3,5 @@ config.*
 *.egg
 *.egg-info
 venv/
+.DS_Store
 
