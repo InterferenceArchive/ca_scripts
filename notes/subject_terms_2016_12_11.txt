@@ -243,7 +243,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 5948	177	3953	NULL	Hip hop	NULL	NULL	NULL	NULL	NULL		3953	177	1	57	170	It's O.K. (single)
 5956	177	3960	NULL	Hip hop	NULL	NULL	NULL	NULL	NULL		3960	177	1	57	171	Labor Days
 5957	177	3961	NULL	NULL	NULL	NULL	NULL	NULL	NULL		3961	177	1	57	171	Labor Days
-5992	177	3983	NULL	death penalty\ndeath penalty	NULL	NULL	NULL	NULL	NULL		3983	177	1	57	172	No Death Penalty for Zolo Azania!!
+5992	177	3983	NULL	death penaltydeath penalty	NULL	NULL	NULL	NULL	NULL		3983	177	1	57	172	No Death Penalty for Zolo Azania!!
 5993	177	3984	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		3984	177	1	57	172	No Death Penalty for Zolo Azania!!
 6040	177	4027	NULL	Hip Hop	NULL	NULL	NULL	NULL	NULL		4027	177	1	57	176	A2G EP
 6054	177	4040	NULL	Hip hop	NULL	NULL	NULL	NULL	NULL		4040	177	1	57	177	Overcast! EP
@@ -572,7 +572,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 8161	177	5637	NULL	Haydee Beltran Torres	NULL	NULL	NULL	NULL	NULL		5637	177	1	57	313	New Movement in Solidarity with the Puerto Rican and Mexicano Revolutions, May 1982 
 8167	177	5643	NULL	Mumia Abu-Jamal	NULL	NULL	NULL	NULL	NULL		5643	177	1	57	314	Stop the Execution! Free Mumia Abu-Jamal!
 8168	177	5644	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		5644	177	1	57	314	Stop the Execution! Free Mumia Abu-Jamal!
-8169	177	5645	NULL	death penalty\ndeath penalty	NULL	NULL	NULL	NULL	NULL		5645	177	1	57	314	Stop the Execution! Free Mumia Abu-Jamal!
+8169	177	5645	NULL	death penaltydeath penalty	NULL	NULL	NULL	NULL	NULL		5645	177	1	57	314	Stop the Execution! Free Mumia Abu-Jamal!
 8178	177	5653	NULL	San Francisco 8	NULL	NULL	NULL	NULL	NULL		5653	177	1	57	315	Free the SF8
 8179	177	5654	NULL	Black Panther Party (use for BPP)	NULL	NULL	NULL	NULL	NULL		5654	177	1	57	315	Free the SF8
 8182	177	5657	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		5657	177	1	57	315	Free the SF8
@@ -632,7 +632,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 8462	177	5894	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		5894	177	1	57	336	FACE REALITY. There are Political Prisoners/ POWs in the U.S.A.!
 8467	177	5899	NULL	Mumia Abu-Jamal	NULL	NULL	NULL	NULL	NULL		5899	177	1	57	337	Free Mumia! Campaign to End the Death Penalty 
 8468	177	5900	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		5900	177	1	57	337	Free Mumia! Campaign to End the Death Penalty 
-8469	177	5901	NULL	death penalty\ndeath penalty	NULL	NULL	NULL	NULL	NULL		5901	177	1	57	337	Free Mumia! Campaign to End the Death Penalty 
+8469	177	5901	NULL	death penaltydeath penalty	NULL	NULL	NULL	NULL	NULL		5901	177	1	57	337	Free Mumia! Campaign to End the Death Penalty 
 8479	177	5910	NULL	Assata Shakur	NULL	NULL	NULL	NULL	NULL		5910	177	1	57	338	FREE ASSATA SHAKUR (JOANNE CHESIMARD) break de chains
 8487	177	5918	NULL	Civil Rights Movement	NULL	NULL	NULL	NULL	NULL		5918	177	1	57	327	Voices of the Civil Rights Movement: Black American Freedom Songs 1960-1966
 8488	177	5919	NULL	Freedom songs	NULL	NULL	NULL	NULL	NULL		5919	177	1	57	327	Voices of the Civil Rights Movement: Black American Freedom Songs 1960-1966
@@ -685,7 +685,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 8753	177	6120	NULL	feminism	NULL	NULL	NULL	NULL	NULL		6120	177	1	57	349	Women's Wax Works A001
 8754	177	6121	NULL	Folk music	NULL	NULL	NULL	NULL	NULL		6121	177	1	57	349	Lavender Jane Loves Women
 8754	177	6121	NULL	Folk music	NULL	NULL	NULL	NULL	NULL		6121	177	1	57	349	Women's Wax Works A001
-8788	177	6148	NULL	Angela Davis\nAngela Davis	NULL	NULL	NULL	NULL	NULL		6148	177	1	57	351	At the present moment
+8788	177	6148	NULL	Angela DavisAngela Davis	NULL	NULL	NULL	NULL	NULL		6148	177	1	57	351	At the present moment
 8789	177	6149	NULL	Che Guevara	NULL	NULL	NULL	NULL	NULL		6149	177	1	57	351	At the present moment
 8790	177	6150	NULL	Cuba	NULL	NULL	NULL	NULL	NULL		6150	177	1	57	351	At the present moment
 8791	177	6151	NULL	Environmentalism	NULL	NULL	NULL	NULL	NULL		6151	177	1	57	351	At the present moment
@@ -726,7 +726,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 8924	177	6253	NULL	Jewish songs	NULL	NULL	NULL	NULL	NULL		6253	177	1	57	355	Hootenanny tonight!
 8925	177	6254	NULL	Protest songs	NULL	NULL	NULL	NULL	NULL		6254	177	1	57	355	Hootenanny tonight!
 8926	177	6255	NULL	Chinese songs	NULL	NULL	NULL	NULL	NULL		6255	177	1	57	355	Hootenanny tonight!
-8953	177	6274	NULL	Folk songs\nFolk songs	NULL	NULL	NULL	NULL	NULL		6274	177	1	57	356	It's my way!
+8953	177	6274	NULL	Folk songsFolk songs	NULL	NULL	NULL	NULL	NULL		6274	177	1	57	356	It's my way!
 8954	177	6275	NULL	Ballads	NULL	NULL	NULL	NULL	NULL		6275	177	1	57	356	It's my way!
 8955	177	6276	NULL	Drugs	NULL	NULL	NULL	NULL	NULL		6276	177	1	57	356	It's my way!
 8956	177	6277	NULL	Native Americans	NULL	NULL	NULL	NULL	NULL		6277	177	1	57	356	It's my way!
@@ -734,8 +734,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 8958	177	6279	NULL	Blues music	NULL	NULL	NULL	NULL	NULL		6279	177	1	57	356	It's my way!
 8959	177	6280	NULL	Love songs	NULL	NULL	NULL	NULL	NULL		6280	177	1	57	356	It's my way!
 8960	177	6281	NULL	NULL	NULL	NULL	NULL	NULL	NULL		6281	177	1	57	356	It's my way!
-8975	177	6291	NULL	real estate\n	NULL	NULL	NULL	NULL	NULL		6291	177	1	57	357	1979 Real Estate Show photo poster, and textual "Manifesto or Statement of Intent"
-8975	177	6291	NULL	real estate\n	NULL	NULL	NULL	NULL	NULL		6291	177	1	57	357	Pair of posters from "The Real Estate Show, Was Then: 1980"
+8975	177	6291	NULL	real estate	NULL	NULL	NULL	NULL	NULL		6291	177	1	57	357	1979 Real Estate Show photo poster, and textual "Manifesto or Statement of Intent"
+8975	177	6291	NULL	real estate	NULL	NULL	NULL	NULL	NULL		6291	177	1	57	357	Pair of posters from "The Real Estate Show, Was Then: 1980"
 8984	177	6299	NULL	Folk songs	NULL	NULL	NULL	NULL	NULL		6299	177	1	57	358	She used to wanna be a ballerina
 8985	177	6300	NULL	Ballads	NULL	NULL	NULL	NULL	NULL		6300	177	1	57	358	She used to wanna be a ballerina
 9012	177	6322	NULL	Folk songs	NULL	NULL	NULL	NULL	NULL		6322	177	1	57	359	The very best of Buffy Sainte-Maire
@@ -746,7 +746,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 9103	177	6395	NULL	Folk songs	NULL	NULL	NULL	NULL	NULL		6395	177	1	57	364	Diamonds and rust
 9104	177	6396	NULL	Popular music	NULL	NULL	NULL	NULL	NULL		6396	177	1	57	364	Diamonds and rust
 9105	177	6397	NULL	NULL	NULL	NULL	NULL	NULL	NULL		6397	177	1	57	364	Diamonds and rust
-9127	177	6410	NULL	Folk songs\nFolk songs	NULL	NULL	NULL	NULL	NULL		6410	177	1	57	366	Murderers' home
+9127	177	6410	NULL	Folk songsFolk songs	NULL	NULL	NULL	NULL	NULL		6410	177	1	57	366	Murderers' home
 9128	177	6411	NULL	Prisons	NULL	NULL	NULL	NULL	NULL		6411	177	1	57	366	Murderers' home
 9129	177	6412	NULL	Work songs	NULL	NULL	NULL	NULL	NULL		6412	177	1	57	366	Murderers' home
 9130	177	6413	NULL	American south	NULL	NULL	NULL	NULL	NULL		6413	177	1	57	366	Murderers' home
@@ -760,8 +760,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 9172	177	6441	NULL	Black Panther Party	NULL	NULL	NULL	NULL	NULL		6441	177	1	57	202	Mumia 911
 9194	177	6458	NULL	Spirituals	NULL	NULL	NULL	NULL	NULL		6458	177	1	57	369	Robeson
 9195	177	6459	NULL	Labor songs	NULL	NULL	NULL	NULL	NULL		6459	177	1	57	369	Robeson
-9226	177	6479	NULL	Folk songs\nFolk songs	NULL	NULL	NULL	NULL	NULL		6479	177	1	57	370	"Encore, Robeson!": Paul Robeson favorite songs, vol. 2
-9226	177	6479	NULL	Folk songs\nFolk songs	NULL	NULL	NULL	NULL	NULL		6479	177	1	57	370	Monitor presents Paul Roberson favorites volume two
+9226	177	6479	NULL	Folk songsFolk songs	NULL	NULL	NULL	NULL	NULL		6479	177	1	57	370	"Encore, Robeson!": Paul Robeson favorite songs, vol. 2
+9226	177	6479	NULL	Folk songsFolk songs	NULL	NULL	NULL	NULL	NULL		6479	177	1	57	370	Monitor presents Paul Roberson favorites volume two
 9227	177	6480	NULL	Spirituals	NULL	NULL	NULL	NULL	NULL		6480	177	1	57	370	"Encore, Robeson!": Paul Robeson favorite songs, vol. 2
 9227	177	6480	NULL	Spirituals	NULL	NULL	NULL	NULL	NULL		6480	177	1	57	370	Monitor presents Paul Roberson favorites volume two
 9253	177	6495	NULL	Black liberation movement	NULL	NULL	NULL	NULL	NULL		6495	177	1	57	371	Freedom in the air: a documentary on Albany, Georgia
@@ -967,10 +967,10 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 10245	177	7320	NULL	labor	NULL	NULL	NULL	NULL	NULL		7320	177	1	57	436	John Henry did you go out on strike?
 10245	177	7320	NULL	labor	NULL	NULL	NULL	NULL	NULL		7320	177	1	57	436	New song for an old fight
 10313	177	7383	NULL	feminism	NULL	NULL	NULL	NULL	NULL		7383	177	1	57	440	Beaver Valley
-10314	177	7384	NULL	gender\ngender	NULL	NULL	NULL	NULL	NULL		7384	177	1	57	440	Beaver Valley
+10314	177	7384	NULL	gendergender	NULL	NULL	NULL	NULL	NULL		7384	177	1	57	440	Beaver Valley
 10357	177	7425	NULL	Revolution	NULL	NULL	NULL	NULL	NULL		7425	177	1	57	443	Black Box (Hungary)
 10357	177	7425	NULL	Revolution	NULL	NULL	NULL	NULL	NULL		7425	177	1	57	443	Original Video Journal (Czech)
-10398	177	7460	NULL	gender\ngender	NULL	NULL	NULL	NULL	NULL		7460	177	1	57	447	The Undergrad
+10398	177	7460	NULL	gendergender	NULL	NULL	NULL	NULL	NULL		7460	177	1	57	447	The Undergrad
 10420	177	7479	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		7479	177	1	57	454	SIN(A)PSIS 3a Octubre 2007 Edición
 10421	177	7480	NULL	Youth	NULL	NULL	NULL	NULL	NULL		7480	177	1	57	454	SIN(A)PSIS 3a Octubre 2007 Edición
 10422	177	7481	NULL	NULL	NULL	NULL	NULL	NULL	NULL		7481	177	1	57	454	SIN(A)PSIS 3a Octubre 2007 Edición
@@ -1012,7 +1012,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 10867	177	7869	NULL	LGBTQ	NULL	NULL	NULL	NULL	NULL		7869	177	1	57	503	Your burrow runs deeper than your blade
 10868	177	7870	NULL	Gay Liberation	NULL	NULL	NULL	NULL	NULL		7870	177	1	57	503	a recipe for gay triumphant utopias
 10868	177	7870	NULL	Gay Liberation	NULL	NULL	NULL	NULL	NULL		7870	177	1	57	503	Your burrow runs deeper than your blade
-10869	177	7871	NULL	G8 summit\nG8	NULL	NULL	NULL	NULL	NULL		7871	177	1	57	502	G8 TV: Heiligendamm 2007
+10869	177	7871	NULL	G8 summitG8	NULL	NULL	NULL	NULL	NULL		7871	177	1	57	502	G8 TV: Heiligendamm 2007
 10904	177	7897	NULL	Prisons	NULL	NULL	NULL	NULL	NULL		7897	177	1	57	506	Captive Nation: Black Prison Organizing in the Civil Rights Era
 10905	177	7898	NULL	Prison Movements	NULL	NULL	NULL	NULL	NULL		7898	177	1	57	506	Captive Nation: Black Prison Organizing in the Civil Rights Era
 10906	177	7899	NULL	Civil Rights Movement	NULL	NULL	NULL	NULL	NULL		7899	177	1	57	506	Captive Nation: Black Prison Organizing in the Civil Rights Era
@@ -1166,16 +1166,16 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 12028	177	8825	NULL	Occupation	NULL	NULL	NULL	NULL	NULL		8825	177	1	57	572	Mai 68
 12082	177	8864	NULL	Anarcho-syndicalism	NULL	NULL	NULL	NULL	NULL		8864	177	1	57	573	not for consumption
 12082	177	8864	NULL	Anarcho-syndicalism	NULL	NULL	NULL	NULL	NULL		8864	177	1	57	573	test item to be deleted 8NOV2015
-12083	177	8865	NULL	Bonfires\nBonfires	NULL	NULL	NULL	NULL	NULL		8865	177	1	57	573	not for consumption
-12083	177	8865	NULL	Bonfires\nBonfires	NULL	NULL	NULL	NULL	NULL		8865	177	1	57	573	test item to be deleted 8NOV2015
+12083	177	8865	NULL	BonfiresBonfires	NULL	NULL	NULL	NULL	NULL		8865	177	1	57	573	not for consumption
+12083	177	8865	NULL	BonfiresBonfires	NULL	NULL	NULL	NULL	NULL		8865	177	1	57	573	test item to be deleted 8NOV2015
 12084	177	8866	NULL	Street	NULL	NULL	NULL	NULL	NULL		8866	177	1	57	573	not for consumption
 12084	177	8866	NULL	Street	NULL	NULL	NULL	NULL	NULL		8866	177	1	57	573	test item to be deleted 8NOV2015
 12221	177	8970	NULL	Riot grrrl	NULL	NULL	NULL	NULL	NULL		8970	177	1	57	574	Bikini Kill
 12221	177	8970	NULL	Riot grrrl	NULL	NULL	NULL	NULL	NULL		8970	177	1	57	574	Bikini Kill : A Coloring and Activity Book
 12222	177	8971	NULL	Riot grrl 	NULL	NULL	NULL	NULL	NULL		8971	177	1	57	574	Bikini Kill
 12222	177	8971	NULL	Riot grrl 	NULL	NULL	NULL	NULL	NULL		8971	177	1	57	574	Bikini Kill : A Coloring and Activity Book
-12223	177	8972	NULL	feminism\nfeminism	NULL	NULL	NULL	NULL	NULL		8972	177	1	57	574	Bikini Kill
-12223	177	8972	NULL	feminism\nfeminism	NULL	NULL	NULL	NULL	NULL		8972	177	1	57	574	Bikini Kill : A Coloring and Activity Book
+12223	177	8972	NULL	feminismfeminism	NULL	NULL	NULL	NULL	NULL		8972	177	1	57	574	Bikini Kill
+12223	177	8972	NULL	feminismfeminism	NULL	NULL	NULL	NULL	NULL		8972	177	1	57	574	Bikini Kill : A Coloring and Activity Book
 12224	177	8973	NULL	zines	NULL	NULL	NULL	NULL	NULL		8973	177	1	57	574	Bikini Kill
 12224	177	8973	NULL	zines	NULL	NULL	NULL	NULL	NULL		8973	177	1	57	574	Bikini Kill : A Coloring and Activity Book
 12258	177	8999	NULL	Terrorism	NULL	NULL	NULL	NULL	NULL		8999	177	1	57	575	war on terror
@@ -1197,8 +1197,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 12410	177	9131	NULL	Poland	NULL	NULL	NULL	NULL	NULL		9131	177	1	57	583	A cappella: nieregularnik autorow
 12411	177	9132	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9132	177	1	57	583	A cappella: nieregularnik autorow
 12428	177	9146	NULL	environmentalism	NULL	NULL	NULL	NULL	NULL		9146	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
-12429	177	9147	NULL	transportation \ntransportation	NULL	NULL	NULL	NULL	NULL		9147	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
-12430	177	9148	NULL	zines \nzines	NULL	NULL	NULL	NULL	NULL		9148	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
+12429	177	9147	NULL	transportation transportation	NULL	NULL	NULL	NULL	NULL		9147	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
+12430	177	9148	NULL	zines zines	NULL	NULL	NULL	NULL	NULL		9148	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
 12431	177	9149	NULL	punk 	NULL	NULL	NULL	NULL	NULL		9149	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
 12432	177	9150	NULL	fossil fuels	NULL	NULL	NULL	NULL	NULL		9150	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
 12433	177	9151	NULL	biodiesel	NULL	NULL	NULL	NULL	NULL		9151	177	1	57	584	Adventures in the Land of Greasecars and Fireflies
@@ -1228,7 +1228,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 12613	177	9313	NULL	Capitalism	NULL	NULL	NULL	NULL	NULL		9313	177	1	57	591	Against Sleep and Nightmare
 12614	177	9314	NULL	Consumerism	NULL	NULL	NULL	NULL	NULL		9314	177	1	57	591	Against Sleep and Nightmare
 12615	177	9315	NULL	zines	NULL	NULL	NULL	NULL	NULL		9315	177	1	57	591	Against Sleep and Nightmare
-12620	177	9320	NULL	Anarchism\nAnarchism	NULL	NULL	NULL	NULL	NULL		9320	177	1	57	594	Affinity: Anarchist Quarterly
+12620	177	9320	NULL	AnarchismAnarchism	NULL	NULL	NULL	NULL	NULL		9320	177	1	57	594	Affinity: Anarchist Quarterly
 12621	177	9321	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9321	177	1	57	594	Affinity: Anarchist Quarterly
 12627	177	9327	NULL	Revolution	NULL	NULL	NULL	NULL	NULL		9327	177	1	57	599	Adelante
 12637	177	9336	NULL	Visual politics, Argentina	NULL	NULL	NULL	NULL	NULL		9336	177	1	57	600	Afterall: A Journal of Art, Context and Enquiry
@@ -1243,8 +1243,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 12718	177	9398	NULL	Queer	NULL	NULL	NULL	NULL	NULL		9398	177	1	57	605	Secret Agent 409
 12719	177	9399	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		9399	177	1	57	605	Agent 409
 12719	177	9399	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		9399	177	1	57	605	Secret Agent 409
-12720	177	9400	NULL	prose \nprose\nprose	NULL	NULL	NULL	NULL	NULL		9400	177	1	57	605	Agent 409
-12720	177	9400	NULL	prose \nprose\nprose	NULL	NULL	NULL	NULL	NULL		9400	177	1	57	605	Secret Agent 409
+12720	177	9400	NULL	prose proseprose	NULL	NULL	NULL	NULL	NULL		9400	177	1	57	605	Agent 409
+12720	177	9400	NULL	prose proseprose	NULL	NULL	NULL	NULL	NULL		9400	177	1	57	605	Secret Agent 409
 12721	177	9401	NULL	transgender 	NULL	NULL	NULL	NULL	NULL		9401	177	1	57	605	Agent 409
 12721	177	9401	NULL	transgender 	NULL	NULL	NULL	NULL	NULL		9401	177	1	57	605	Secret Agent 409
 12722	177	9402	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9402	177	1	57	605	Agent 409
@@ -1253,7 +1253,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 12754	177	9428	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		9428	177	1	57	603	@live and kicking
 12754	177	9428	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		9428	177	1	57	603	alive & kicking : cambridge anarchist news
 12775	177	9448	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		9448	177	1	57	609	Agent 409
-12776	177	9449	NULL	prose \nprose\nprose	NULL	NULL	NULL	NULL	NULL		9449	177	1	57	609	Agent 409
+12776	177	9449	NULL	prose proseprose	NULL	NULL	NULL	NULL	NULL		9449	177	1	57	609	Agent 409
 12777	177	9450	NULL	Queer	NULL	NULL	NULL	NULL	NULL		9450	177	1	57	609	Agent 409
 12778	177	9451	NULL	transgender 	NULL	NULL	NULL	NULL	NULL		9451	177	1	57	609	Agent 409
 12808	177	9479	NULL	Labor organizing	NULL	NULL	NULL	NULL	NULL		9479	177	1	57	611	Alavío: video and direct action
@@ -1321,7 +1321,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 13157	177	9756	NULL	McLibel	NULL	NULL	NULL	NULL	NULL		9756	177	1	57	633	Alternative Press Review: Your Guide Beyond the Mainstream
 13172	177	9765	NULL	prisoner support	NULL	NULL	NULL	NULL	NULL		9765	177	1	57	630	Chicago Anarchist Black Cross Bulletin No. 1
 13179	177	9770	NULL	libertarianism	NULL	NULL	NULL	NULL	NULL		9770	177	1	57	597	Against the Wall.
-13180	177	9771	NULL	Yippies\n	NULL	NULL	NULL	NULL	NULL		9771	177	1	57	597	Against the Wall.
+13180	177	9771	NULL	Yippies	NULL	NULL	NULL	NULL	NULL		9771	177	1	57	597	Against the Wall.
 13203	177	9792	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		9792	177	1	57	634	ABCF Update: Quarterly Publication of the ABCF
 13204	177	9793	NULL	Prisons	NULL	NULL	NULL	NULL	NULL		9793	177	1	57	634	ABCF Update: Quarterly Publication of the ABCF
 13207	177	9796	NULL	Jericho Movement	NULL	NULL	NULL	NULL	NULL		9796	177	1	57	634	ABCF Update: Quarterly Publication of the ABCF
@@ -1342,17 +1342,17 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 13241	177	9825	NULL	Criminal Justice Act (England)	NULL	NULL	NULL	NULL	NULL		9825	177	1	57	635	Anarchist Black Cross Bulletin
 13242	177	9826	NULL	Lucasville Uprising (Lucasville, Ohio)	NULL	NULL	NULL	NULL	NULL		9826	177	1	57	635	Anarchist Black Cross Bulletin
 13243	177	9827	NULL	London Anarchist Black Cross	NULL	NULL	NULL	NULL	NULL		9827	177	1	57	635	Anarchist Black Cross Bulletin
-13281	177	9861	NULL	Asian American\n	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : An Asian American Magazine 
-13281	177	9861	NULL	Asian American\n	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : An Asian American Perspective
-13281	177	9861	NULL	Asian American\n	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : The Magazine of Asians in America
-13281	177	9861	NULL	Asian American\n	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge: Asian American Perspectives
+13281	177	9861	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : An Asian American Magazine 
+13281	177	9861	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : An Asian American Perspective
+13281	177	9861	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge : The Magazine of Asians in America
+13281	177	9861	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		9861	177	1	57	636	Bridge: Asian American Perspectives
 13282	177	9862	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9862	177	1	57	636	Bridge : An Asian American Magazine 
 13282	177	9862	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9862	177	1	57	636	Bridge : An Asian American Perspective
 13282	177	9862	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9862	177	1	57	636	Bridge : The Magazine of Asians in America
 13282	177	9862	NULL	NULL	NULL	NULL	NULL	NULL	NULL		9862	177	1	57	636	Bridge: Asian American Perspectives
-13337	177	9911	NULL	Asian American\n	NULL	NULL	NULL	NULL	NULL		9911	177	1	57	637	Yellow Pearl
+13337	177	9911	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		9911	177	1	57	637	Yellow Pearl
 13338	177	9912	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		9912	177	1	57	637	Yellow Pearl
-13339	177	9913	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		9913	177	1	57	637	Yellow Pearl
+13339	177	9913	NULL	comics	NULL	NULL	NULL	NULL	NULL		9913	177	1	57	637	Yellow Pearl
 13340	177	9914	NULL	Asian-American Movement	NULL	NULL	NULL	NULL	NULL		9914	177	1	57	637	Yellow Pearl
 13341	177	9915	NULL	Folk songs	NULL	NULL	NULL	NULL	NULL		9915	177	1	57	637	Yellow Pearl
 13342	177	9916	NULL	gender	NULL	NULL	NULL	NULL	NULL		9916	177	1	57	637	Yellow Pearl
@@ -1432,7 +1432,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 13637	177	10163	NULL	Philosophy of history	NULL	NULL	NULL	NULL	NULL		10163	177	1	57	650	Archive #1
 13638	177	10164	NULL	Conservation	NULL	NULL	NULL	NULL	NULL		10164	177	1	57	650	Archive #1
 13641	177	10167	NULL	ecology	NULL	NULL	NULL	NULL	NULL		10167	177	1	57	649	Aprovecho: I Make Best Use Of
-13664	177	10182	NULL	communism\ncommunism	NULL	NULL	NULL	NULL	NULL		10182	177	1	57	654	Antagonismo, Izquierda Radical Autónoma. No. 1
+13664	177	10182	NULL	communismcommunism	NULL	NULL	NULL	NULL	NULL		10182	177	1	57	654	Antagonismo, Izquierda Radical Autónoma. No. 1
 13693	177	10208	NULL	Artist book	NULL	NULL	NULL	NULL	NULL		10208	177	1	57	658	Artists Who Make "Pieces"
 13693	177	10208	NULL	Artist book	NULL	NULL	NULL	NULL	NULL		10208	177	1	57	658	Artists Who Make "Pieces", 1976, pastel on paper 22 3/4 x 28 1/2 ins
 13694	177	10209	NULL	Abstract	NULL	NULL	NULL	NULL	NULL		10209	177	1	57	658	Artists Who Make "Pieces"
@@ -1447,7 +1447,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 13720	177	10231	NULL	photography	NULL	NULL	NULL	NULL	NULL		10231	177	1	57	660	Archive Issue #3
 13726	177	10236	NULL	Queer	NULL	NULL	NULL	NULL	NULL		10236	177	1	57	659	Anarquist
 13727	177	10237	NULL	Anarchism 	NULL	NULL	NULL	NULL	NULL		10237	177	1	57	659	Anarquist
-13728	177	10238	NULL	Pride \n	NULL	NULL	NULL	NULL	NULL		10238	177	1	57	659	Anarquist
+13728	177	10238	NULL	Pride 	NULL	NULL	NULL	NULL	NULL		10238	177	1	57	659	Anarquist
 13729	177	10239	NULL	punk 	NULL	NULL	NULL	NULL	NULL		10239	177	1	57	659	Anarquist
 13746	177	10252	NULL	Music 	NULL	NULL	NULL	NULL	NULL		10252	177	1	57	657	Armed With Anger Zine Issue 3
 13747	177	10253	NULL	Punk	NULL	NULL	NULL	NULL	NULL		10253	177	1	57	657	Armed With Anger Zine Issue 3
@@ -1472,7 +1472,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 13833	177	10330	NULL	Spanish anarcho-syndicalist union	NULL	NULL	NULL	NULL	NULL		10330	177	1	57	666	Anarchist Worker
 13840	177	10338	NULL	Anti-nuclear	NULL	NULL	NULL	NULL	NULL		10338	177	1	57	667	Anarchy Times
 13841	177	10339	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		10339	177	1	57	667	Anarchy Times
-13842	177	10340	NULL	Marijuana\n	NULL	NULL	NULL	NULL	NULL		10340	177	1	57	667	Anarchy Times
+13842	177	10340	NULL	Marijuana	NULL	NULL	NULL	NULL	NULL		10340	177	1	57	667	Anarchy Times
 13865	177	10357	NULL	music 	NULL	NULL	NULL	NULL	NULL		10357	177	1	57	663	American Music Press
 13865	177	10357	NULL	music 	NULL	NULL	NULL	NULL	NULL		10357	177	1	57	663	AMP
 13866	177	10358	NULL	Punk music	NULL	NULL	NULL	NULL	NULL		10358	177	1	57	663	American Music Press
@@ -1540,8 +1540,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 14143	177	10576	NULL	Anti-nationalism 	NULL	NULL	NULL	NULL	NULL		10576	177	1	57	676	Ask Why? No. 9
 14144	177	10577	NULL	Protests 	NULL	NULL	NULL	NULL	NULL		10577	177	1	57	676	Ask Why? No. 9
 14145	177	10578	NULL	Zine reviews	NULL	NULL	NULL	NULL	NULL		10578	177	1	57	676	Ask Why? No. 9
-14158	177	10589	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		10589	177	1	57	677	AssWhine
-14158	177	10589	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		10589	177	1	57	677	The Assassin and the Whiner No. 11
+14158	177	10589	NULL	comics	NULL	NULL	NULL	NULL	NULL		10589	177	1	57	677	AssWhine
+14158	177	10589	NULL	comics	NULL	NULL	NULL	NULL	NULL		10589	177	1	57	677	The Assassin and the Whiner No. 11
 14159	177	10590	NULL	personal 	NULL	NULL	NULL	NULL	NULL		10590	177	1	57	677	AssWhine
 14159	177	10590	NULL	personal 	NULL	NULL	NULL	NULL	NULL		10590	177	1	57	677	The Assassin and the Whiner No. 11
 14160	177	10591	NULL	relationships 	NULL	NULL	NULL	NULL	NULL		10591	177	1	57	677	AssWhine
@@ -1552,7 +1552,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 14162	177	10593	NULL	break-up	NULL	NULL	NULL	NULL	NULL		10593	177	1	57	677	The Assassin and the Whiner No. 11
 14205	177	10630	NULL	assault	NULL	NULL	NULL	NULL	NULL		10630	177	1	57	680	asskicker 2
 14206	177	10631	NULL	violence against women	NULL	NULL	NULL	NULL	NULL		10631	177	1	57	680	asskicker 2
-14226	177	10647	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		10647	177	1	57	678	Assificado 4
+14226	177	10647	NULL	comics	NULL	NULL	NULL	NULL	NULL		10647	177	1	57	678	Assificado 4
 14227	177	10648	NULL	September 11	NULL	NULL	NULL	NULL	NULL		10648	177	1	57	678	Assificado 4
 14228	177	10649	NULL	NULL	NULL	NULL	NULL	NULL	NULL		10649	177	1	57	678	Assificado 4
 14231	177	10652	NULL	Legos	NULL	NULL	NULL	NULL	NULL		10652	177	1	57	682	Aubrey's Lego Club #1
@@ -1665,7 +1665,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 14629	177	10965	NULL	Cometbus	NULL	NULL	NULL	NULL	NULL		10965	177	1	57	702	Last Gasp April 2006 Newsletter
 14630	177	10966	NULL	New Orleans	NULL	NULL	NULL	NULL	NULL		10966	177	1	57	702	Last Gasp April 2006 Newsletter
 14631	177	10967	NULL	zines	NULL	NULL	NULL	NULL	NULL		10967	177	1	57	702	Last Gasp April 2006 Newsletter
-14632	177	10968	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		10968	177	1	57	702	Last Gasp April 2006 Newsletter
+14632	177	10968	NULL	comics	NULL	NULL	NULL	NULL	NULL		10968	177	1	57	702	Last Gasp April 2006 Newsletter
 14641	177	10976	NULL	illustration	NULL	NULL	NULL	NULL	NULL		10976	177	1	57	703	untitled
 14642	177	10977	NULL	collage	NULL	NULL	NULL	NULL	NULL		10977	177	1	57	703	untitled
 14643	177	10978	NULL	cartoon	NULL	NULL	NULL	NULL	NULL		10978	177	1	57	703	untitled
@@ -1699,7 +1699,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 14856	177	11150	NULL	Punk	NULL	NULL	NULL	NULL	NULL		11150	177	1	57	715	Anti-System
 14869	177	11160	NULL	Greek Politics	NULL	NULL	NULL	NULL	NULL		11160	177	1	57	718	I Refuse
 14869	177	11160	NULL	Greek Politics	NULL	NULL	NULL	NULL	NULL		11160	177	1	57	718	Αρνουμαι
-14918	177	11205	NULL	Anti-fascism\nAnti-fascism	NULL	NULL	NULL	NULL	NULL		11205	177	1	57	721	ARA Research Bulletin
+14918	177	11205	NULL	Anti-fascismAnti-fascism	NULL	NULL	NULL	NULL	NULL		11205	177	1	57	721	ARA Research Bulletin
 14919	177	11206	NULL	Anti-racism	NULL	NULL	NULL	NULL	NULL		11206	177	1	57	721	ARA Research Bulletin
 14926	177	11213	NULL	art	NULL	NULL	NULL	NULL	NULL		11213	177	1	57	719	Apocalypso
 14927	177	11214	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		11214	177	1	57	719	Apocalypso
@@ -1806,18 +1806,18 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 15548	177	11733	NULL	feminism	NULL	NULL	NULL	NULL	NULL		11733	177	1	57	757	Babylon Aflame
 15549	177	11734	NULL	activism 	NULL	NULL	NULL	NULL	NULL		11734	177	1	57	757	Babylon Aflame
 15550	177	11735	NULL	anarchism 	NULL	NULL	NULL	NULL	NULL		11735	177	1	57	757	Babylon Aflame
-15566	177	11746	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		11746	177	1	57	758	Backstabbing/Two-Timing
+15566	177	11746	NULL	comics	NULL	NULL	NULL	NULL	NULL		11746	177	1	57	758	Backstabbing/Two-Timing
 15579	177	11755	NULL	zine	NULL	NULL	NULL	NULL	NULL		11755	177	1	57	759	The Body Heart's Backgammon 
 15580	177	11756	NULL	backgammon	NULL	NULL	NULL	NULL	NULL		11756	177	1	57	759	The Body Heart's Backgammon 
 15635	177	11795	NULL	Utopian 	NULL	NULL	NULL	NULL	NULL		11795	177	1	57	762	Banning Cars from Manhattan 
 15636	177	11796	NULL	cars	NULL	NULL	NULL	NULL	NULL		11796	177	1	57	762	Banning Cars from Manhattan 
 15637	177	11797	NULL	Manhattan	NULL	NULL	NULL	NULL	NULL		11797	177	1	57	762	Banning Cars from Manhattan 
-15725	177	11867	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		11867	177	1	57	766	Bathroom Girls
-15725	177	11867	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		11867	177	1	57	766	San Diego Edition
-15726	177	11868	NULL	Girl Bands\n	NULL	NULL	NULL	NULL	NULL		11868	177	1	57	766	Bathroom Girls
-15726	177	11868	NULL	Girl Bands\n	NULL	NULL	NULL	NULL	NULL		11868	177	1	57	766	San Diego Edition
-15727	177	11869	NULL	Women\n	NULL	NULL	NULL	NULL	NULL		11869	177	1	57	766	Bathroom Girls
-15727	177	11869	NULL	Women\n	NULL	NULL	NULL	NULL	NULL		11869	177	1	57	766	San Diego Edition
+15725	177	11867	NULL	Music	NULL	NULL	NULL	NULL	NULL		11867	177	1	57	766	Bathroom Girls
+15725	177	11867	NULL	Music	NULL	NULL	NULL	NULL	NULL		11867	177	1	57	766	San Diego Edition
+15726	177	11868	NULL	Girl Bands	NULL	NULL	NULL	NULL	NULL		11868	177	1	57	766	Bathroom Girls
+15726	177	11868	NULL	Girl Bands	NULL	NULL	NULL	NULL	NULL		11868	177	1	57	766	San Diego Edition
+15727	177	11869	NULL	Women	NULL	NULL	NULL	NULL	NULL		11869	177	1	57	766	Bathroom Girls
+15727	177	11869	NULL	Women	NULL	NULL	NULL	NULL	NULL		11869	177	1	57	766	San Diego Edition
 15728	177	11870	NULL	High School	NULL	NULL	NULL	NULL	NULL		11870	177	1	57	766	Bathroom Girls
 15728	177	11870	NULL	High School	NULL	NULL	NULL	NULL	NULL		11870	177	1	57	766	San Diego Edition
 15750	177	11888	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		11888	177	1	57	763	Banshee
@@ -1837,8 +1837,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 15770	177	11906	NULL	Columbus Day	NULL	NULL	NULL	NULL	NULL		11906	177	1	57	757	Babylon Aflame
 15771	177	11907	NULL	theft	NULL	NULL	NULL	NULL	NULL		11907	177	1	57	757	Babylon Aflame
 15772	177	11908	NULL	dine and dash	NULL	NULL	NULL	NULL	NULL		11908	177	1	57	757	Babylon Aflame
-15805	177	11938	NULL	Coney Island\nABC NoRio\nCookie Puss (cat)\nLower East Side (Manhattan neighborhood)\nlocal history\n	NULL	NULL	NULL	NULL	NULL		11938	177	1	57	769	The Best Time to Come to Coney Island
-15824	177	11951	NULL	Bisexuality\nAIDS/HIV Activism\nDomestic Violence activism\nBibliographies\nPaul, Nicole (1970 - 1994)\nFeminism\nAnarcho-feminism\n	NULL	NULL	NULL	NULL	NULL		11951	177	1	57	770	betty crocker on acid: Abnormal behavior in our times
+15805	177	11938	NULL	Coney IslandABC NoRioCookie Puss (cat)Lower East Side (Manhattan neighborhood)local history	NULL	NULL	NULL	NULL	NULL		11938	177	1	57	769	The Best Time to Come to Coney Island
+15824	177	11951	NULL	BisexualityAIDS/HIV ActivismDomestic Violence activismBibliographiesPaul, Nicole (1970 - 1994)FeminismAnarcho-feminism	NULL	NULL	NULL	NULL	NULL		11951	177	1	57	770	betty crocker on acid: Abnormal behavior in our times
 15848	177	11966	NULL	Punk	NULL	NULL	NULL	NULL	NULL		11966	177	1	57	761	Bad Ideas #6
 15849	177	11967	NULL	punk rock culture	NULL	NULL	NULL	NULL	NULL		11967	177	1	57	761	Bad Ideas #6
 15850	177	11968	NULL	prisoner support	NULL	NULL	NULL	NULL	NULL		11968	177	1	57	761	Bad Ideas #6
@@ -1847,11 +1847,11 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 15853	177	11971	NULL	Jails	NULL	NULL	NULL	NULL	NULL		11971	177	1	57	761	Bad Ideas #6
 15854	177	11972	NULL	skinheads	NULL	NULL	NULL	NULL	NULL		11972	177	1	57	761	Bad Ideas #6
 15880	177	11991	NULL	New York	NULL	NULL	NULL	NULL	NULL		11991	177	1	57	762	Banning Cars from Manhattan 
-15881	177	11992	NULL	Family\n	NULL	NULL	NULL	NULL	NULL		11992	177	1	57	772	Bicycles for Afghanistan 
-15882	177	11993	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		11993	177	1	57	772	Bicycles for Afghanistan 
-15883	177	11994	NULL	Pearl Harbor (Japanese attack, December 7, 1941)\n	NULL	NULL	NULL	NULL	NULL		11994	177	1	57	772	Bicycles for Afghanistan 
-15884	177	11995	NULL	Memoirs\n\n	NULL	NULL	NULL	NULL	NULL		11995	177	1	57	772	Bicycles for Afghanistan 
-15887	177	11997	NULL	Memoirs\n	NULL	NULL	NULL	NULL	NULL		11997	177	1	57	769	The Best Time to Come to Coney Island
+15881	177	11992	NULL	Family	NULL	NULL	NULL	NULL	NULL		11992	177	1	57	772	Bicycles for Afghanistan 
+15882	177	11993	NULL	Punk	NULL	NULL	NULL	NULL	NULL		11993	177	1	57	772	Bicycles for Afghanistan 
+15883	177	11994	NULL	Pearl Harbor (Japanese attack, December 7, 1941)	NULL	NULL	NULL	NULL	NULL		11994	177	1	57	772	Bicycles for Afghanistan 
+15884	177	11995	NULL	Memoirs	NULL	NULL	NULL	NULL	NULL		11995	177	1	57	772	Bicycles for Afghanistan 
+15887	177	11997	NULL	Memoirs	NULL	NULL	NULL	NULL	NULL		11997	177	1	57	769	The Best Time to Come to Coney Island
 15911	177	12015	NULL	Black Lives Matter	NULL	NULL	NULL	NULL	NULL		12015	177	1	57	774	Dignity and Power
 15911	177	12015	NULL	Black Lives Matter	NULL	NULL	NULL	NULL	NULL		12015	177	1	57	774	Dignity and Power Quarterly: V.1 N.01: PIC bye bye
 15912	177	12016	NULL	Prison Industrial Complex (use for PIC)	NULL	NULL	NULL	NULL	NULL		12016	177	1	57	774	Dignity and Power
@@ -1886,9 +1886,9 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 15998	177	12098	NULL	NULL	NULL	NULL	NULL	NULL	NULL		12098	177	1	57	778	and I am ready and waiting for THE BIG DAY and that one moment where I remember just what I need 
 15998	177	12098	NULL	NULL	NULL	NULL	NULL	NULL	NULL		12098	177	1	57	778	The Big Day 
 16013	177	12109	NULL	punk rock culture	NULL	NULL	NULL	NULL	NULL		12109	177	1	57	779	Binocular Rebellious
-16047	177	12140	NULL	happy birthday\nhappy birthday	NULL	NULL	NULL	NULL	NULL		12140	177	1	57	780	Birthday
+16047	177	12140	NULL	happy birthdayhappy birthday	NULL	NULL	NULL	NULL	NULL		12140	177	1	57	780	Birthday
 16077	177	12168	NULL	Lesbians	NULL	NULL	NULL	NULL	NULL		12168	177	1	57	783	Bitte Liebling
-16078	177	12169	NULL	porn\nPorn	NULL	NULL	NULL	NULL	NULL		12169	177	1	57	783	Bitte Liebling
+16078	177	12169	NULL	pornPorn	NULL	NULL	NULL	NULL	NULL		12169	177	1	57	783	Bitte Liebling
 16082	177	12173	NULL	art	NULL	NULL	NULL	NULL	NULL		12173	177	1	57	781	Birdsong
 16083	177	12174	NULL	literature	NULL	NULL	NULL	NULL	NULL		12174	177	1	57	781	Birdsong
 16090	177	12178	NULL	NULL	NULL	NULL	NULL	NULL	NULL		12178	177	1	57	782	contribution #3 : big men hugging
@@ -1920,7 +1920,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 16224	177	12296	NULL	NULL	NULL	NULL	NULL	NULL	NULL		12296	177	1	57	794	More Misdirected Potential
 16240	177	12309	NULL	Queer	NULL	NULL	NULL	NULL	NULL		12309	177	1	57	795	Blot
 16241	177	12310	NULL	AIDS 	NULL	NULL	NULL	NULL	NULL		12310	177	1	57	795	Blot
-16242	177	12311	NULL	Porn\nPorn	NULL	NULL	NULL	NULL	NULL		12311	177	1	57	795	Blot
+16242	177	12311	NULL	PornPorn	NULL	NULL	NULL	NULL	NULL		12311	177	1	57	795	Blot
 16250	177	12317	NULL	Socialism	NULL	NULL	NULL	NULL	NULL		12317	177	1	57	792	Blowin Chunxxx
 16250	177	12317	NULL	Socialism	NULL	NULL	NULL	NULL	NULL		12317	177	1	57	792	Blowin' Chunx
 16250	177	12317	NULL	Socialism	NULL	NULL	NULL	NULL	NULL		12317	177	1	57	792	Blown Chunx
@@ -1933,7 +1933,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 16274	177	12338	NULL	monkey-wrenching	NULL	NULL	NULL	NULL	NULL		12338	177	1	57	796	Boba Fett
 16275	177	12339	NULL	political prisoners	NULL	NULL	NULL	NULL	NULL		12339	177	1	57	796	Boba Fett
 16276	177	12340	NULL	zines	NULL	NULL	NULL	NULL	NULL		12340	177	1	57	796	Boba Fett
-16277	177	12341	NULL	Family\n	NULL	NULL	NULL	NULL	NULL		12341	177	1	57	796	Boba Fett
+16277	177	12341	NULL	Family	NULL	NULL	NULL	NULL	NULL		12341	177	1	57	796	Boba Fett
 16291	177	12350	NULL	Feminism	NULL	NULL	NULL	NULL	NULL		12350	177	1	57	797	Women and the Movement to Build a New America
 16292	177	12351	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		12351	177	1	57	797	Women and the Movement to Build a New America
 16293	177	12352	NULL	Marxism	NULL	NULL	NULL	NULL	NULL		12352	177	1	57	797	Women and the Movement to Build a New America
@@ -1988,7 +1988,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 16465	177	12496	NULL	Activism	NULL	NULL	NULL	NULL	NULL		12496	177	1	57	806	The Borough is My Library: A Greater Metropolitan Library Workers Zine
 16466	177	12497	NULL	Social Justice	NULL	NULL	NULL	NULL	NULL		12497	177	1	57	806	The Borough is My Library: A Greater Metropolitan Library Workers Zine
 16467	177	12498	NULL	Public Library	NULL	NULL	NULL	NULL	NULL		12498	177	1	57	806	The Borough is My Library: A Greater Metropolitan Library Workers Zine
-16474	177	12504	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		12504	177	1	57	807	Brains
+16474	177	12504	NULL	Punk	NULL	NULL	NULL	NULL	NULL		12504	177	1	57	807	Brains
 16475	177	12505	NULL	Zombies	NULL	NULL	NULL	NULL	NULL		12505	177	1	57	807	Brains
 16476	177	12506	NULL	Stories	NULL	NULL	NULL	NULL	NULL		12506	177	1	57	807	Brains
 16504	177	12523	NULL	New York	NULL	NULL	NULL	NULL	NULL		12523	177	1	57	808	The Borough is My Library: A Greater Metropolitan Library Workers Zine
@@ -2061,7 +2061,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 16717	177	12707	NULL	straight edge 	NULL	NULL	NULL	NULL	NULL		12707	177	1	57	821	Bringing it Back
 16733	177	12722	NULL	Squatters	NULL	NULL	NULL	NULL	NULL		12722	177	1	57	822	Bright Lights
 16734	177	12723	NULL	vegans and vegan activism	NULL	NULL	NULL	NULL	NULL		12723	177	1	57	822	Bright Lights
-16735	177	12724	NULL	Memoirs\n\n	NULL	NULL	NULL	NULL	NULL		12724	177	1	57	822	Bright Lights
+16735	177	12724	NULL	Memoirs	NULL	NULL	NULL	NULL	NULL		12724	177	1	57	822	Bright Lights
 16742	177	12730	NULL	sexual assault	NULL	NULL	NULL	NULL	NULL		12730	177	1	57	770	betty crocker on acid: Abnormal behavior in our times
 16743	177	12731	NULL	HIV	NULL	NULL	NULL	NULL	NULL		12731	177	1	57	770	betty crocker on acid: Abnormal behavior in our times
 16744	177	12732	NULL	AIDS	NULL	NULL	NULL	NULL	NULL		12732	177	1	57	770	betty crocker on acid: Abnormal behavior in our times
@@ -2079,19 +2079,19 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 16779	177	12766	NULL	Black Liberation Army 	NULL	NULL	NULL	NULL	NULL		12766	177	1	57	824	Bringing the War Home!
 16780	177	12767	NULL	Earth Liberation Front	NULL	NULL	NULL	NULL	NULL		12767	177	1	57	824	Bringing the War Home!
 16781	177	12768	NULL	Weather Underground	NULL	NULL	NULL	NULL	NULL		12768	177	1	57	824	Bringing the War Home!
-16782	177	12769	NULL	Underground Weathermen\nUnderground Weathermen	NULL	NULL	NULL	NULL	NULL		12769	177	1	57	824	Bringing the War Home!
+16782	177	12769	NULL	Underground WeathermenUnderground Weathermen	NULL	NULL	NULL	NULL	NULL		12769	177	1	57	824	Bringing the War Home!
 16783	177	12770	NULL	direct action	NULL	NULL	NULL	NULL	NULL		12770	177	1	57	824	Bringing the War Home!
 16793	177	12779	NULL	environmentalism	NULL	NULL	NULL	NULL	NULL		12779	177	1	57	825	Broken Locks
 16794	177	12780	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		12780	177	1	57	825	Broken Locks
 16795	177	12781	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		12781	177	1	57	825	Broken Locks
 16796	177	12782	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		12782	177	1	57	825	Broken Locks
 16797	177	12783	NULL	anti-colonialism	NULL	NULL	NULL	NULL	NULL		12783	177	1	57	825	Broken Locks
-16804	177	12790	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		12790	177	1	57	826	Broken Ugly and Stoned
-16804	177	12790	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		12790	177	1	57	826	Drawings, Sketches and Utter Bullshit   Layin In Bed w/ a Broken Ankle
+16804	177	12790	NULL	Punk	NULL	NULL	NULL	NULL	NULL		12790	177	1	57	826	Broken Ugly and Stoned
+16804	177	12790	NULL	Punk	NULL	NULL	NULL	NULL	NULL		12790	177	1	57	826	Drawings, Sketches and Utter Bullshit   Layin In Bed w/ a Broken Ankle
 16819	177	12803	NULL	punk rock culture	NULL	NULL	NULL	NULL	NULL		12803	177	1	57	827	Brown Eye Pie
-16820	177	12804	NULL	graffiti\ngraffiti	NULL	NULL	NULL	NULL	NULL		12804	177	1	57	827	Brown Eye Pie
-16833	177	12816	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		12816	177	1	57	828	Bs.As! Desorden: Ruido E IdeⒶs
-16833	177	12816	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		12816	177	1	57	828	Crear O Reventar
+16820	177	12804	NULL	graffitigraffiti	NULL	NULL	NULL	NULL	NULL		12804	177	1	57	827	Brown Eye Pie
+16833	177	12816	NULL	Punk	NULL	NULL	NULL	NULL	NULL		12816	177	1	57	828	Bs.As! Desorden: Ruido E IdeⒶs
+16833	177	12816	NULL	Punk	NULL	NULL	NULL	NULL	NULL		12816	177	1	57	828	Crear O Reventar
 16834	177	12817	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		12817	177	1	57	828	Bs.As! Desorden: Ruido E IdeⒶs
 16834	177	12817	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		12817	177	1	57	828	Crear O Reventar
 16835	177	12818	NULL	Anti-war	NULL	NULL	NULL	NULL	NULL		12818	177	1	57	828	Bs.As! Desorden: Ruido E IdeⒶs
@@ -2223,7 +2223,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 17637	177	13538	NULL	NULL	NULL	NULL	NULL	NULL	NULL		13538	177	1	57	881	Black flag quarterly : journal of anarchist ideas, news and comment
 17649	177	13548	NULL	transgender 	NULL	NULL	NULL	NULL	NULL		13548	177	1	57	882	Camp Trans
 17650	177	13549	NULL	feminism	NULL	NULL	NULL	NULL	NULL		13549	177	1	57	882	Camp Trans
-17651	177	13550	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		13550	177	1	57	882	Camp Trans
+17651	177	13550	NULL	Music	NULL	NULL	NULL	NULL	NULL		13550	177	1	57	882	Camp Trans
 17652	177	13551	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		13551	177	1	57	882	Camp Trans
 17653	177	13552	NULL	LGBTQ	NULL	NULL	NULL	NULL	NULL		13552	177	1	57	882	Camp Trans
 17654	177	13553	NULL	NULL	NULL	NULL	NULL	NULL	NULL		13553	177	1	57	882	Camp Trans
@@ -2242,16 +2242,16 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 17693	177	13586	NULL	art	NULL	NULL	NULL	NULL	NULL		13586	177	1	57	885	The Carrot Book
 17694	177	13587	NULL	humor	NULL	NULL	NULL	NULL	NULL		13587	177	1	57	885	The Carrot Book
 17695	177	13588	NULL	cartoon	NULL	NULL	NULL	NULL	NULL		13588	177	1	57	885	The Carrot Book
-17696	177	13589	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		13589	177	1	57	885	The Carrot Book
+17696	177	13589	NULL	comics	NULL	NULL	NULL	NULL	NULL		13589	177	1	57	885	The Carrot Book
 17697	177	13590	NULL	NULL	NULL	NULL	NULL	NULL	NULL		13590	177	1	57	885	The Carrot Book
 17716	177	13607	NULL	film	NULL	NULL	NULL	NULL	NULL		13607	177	1	57	886	Cashiers du Cinemart
 17717	177	13608	NULL	Comic	NULL	NULL	NULL	NULL	NULL		13608	177	1	57	886	Cashiers du Cinemart
 17718	177	13609	NULL	pop culture	NULL	NULL	NULL	NULL	NULL		13609	177	1	57	886	Cashiers du Cinemart
-17728	177	13617	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		13617	177	1	57	887	Chaos Days: A Gathering of Tribes
+17728	177	13617	NULL	Punk	NULL	NULL	NULL	NULL	NULL		13617	177	1	57	887	Chaos Days: A Gathering of Tribes
 17729	177	13618	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		13618	177	1	57	887	Chaos Days: A Gathering of Tribes
 17730	177	13619	NULL	Food Not Bombs	NULL	NULL	NULL	NULL	NULL		13619	177	1	57	887	Chaos Days: A Gathering of Tribes
 17731	177	13620	NULL	Anti-globalization	NULL	NULL	NULL	NULL	NULL		13620	177	1	57	887	Chaos Days: A Gathering of Tribes
-17732	177	13621	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		13621	177	1	57	887	Chaos Days: A Gathering of Tribes
+17732	177	13621	NULL	Music	NULL	NULL	NULL	NULL	NULL		13621	177	1	57	887	Chaos Days: A Gathering of Tribes
 17733	177	13622	NULL	Protests 	NULL	NULL	NULL	NULL	NULL		13622	177	1	57	887	Chaos Days: A Gathering of Tribes
 17743	177	13631	NULL	abortion	NULL	NULL	NULL	NULL	NULL		13631	177	1	57	888	A Slight Expression
 17743	177	13631	NULL	abortion	NULL	NULL	NULL	NULL	NULL		13631	177	1	57	888	Catch 22
@@ -2261,12 +2261,12 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 17745	177	13633	NULL	crimethinc	NULL	NULL	NULL	NULL	NULL		13633	177	1	57	888	Catch 22
 17771	177	13656	NULL	high school	NULL	NULL	NULL	NULL	NULL		13656	177	1	57	891	Cheshire
 17772	177	13657	NULL	wrestling	NULL	NULL	NULL	NULL	NULL		13657	177	1	57	891	Cheshire
-17773	177	13658	NULL	comics\ncomics	NULL	NULL	NULL	NULL	NULL		13658	177	1	57	891	Cheshire
+17773	177	13658	NULL	comicscomics	NULL	NULL	NULL	NULL	NULL		13658	177	1	57	891	Cheshire
 17778	177	13663	NULL	Queer	NULL	NULL	NULL	NULL	NULL		13663	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
 17779	177	13664	NULL	lesbian	NULL	NULL	NULL	NULL	NULL		13664	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
 17780	177	13665	NULL	cartoon	NULL	NULL	NULL	NULL	NULL		13665	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
 17781	177	13666	NULL	feminism	NULL	NULL	NULL	NULL	NULL		13666	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
-17782	177	13667	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		13667	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
+17782	177	13667	NULL	comics	NULL	NULL	NULL	NULL	NULL		13667	177	1	57	890	Chaos Order: Dyke Post Teenage Angst
 17785	177	13669	NULL	Queer	NULL	NULL	NULL	NULL	NULL		13669	177	1	57	889	Chaos Order: Post Teenage Angst
 17786	177	13670	NULL	lesbian	NULL	NULL	NULL	NULL	NULL		13670	177	1	57	889	Chaos Order: Post Teenage Angst
 17787	177	13671	NULL	LGBTQ	NULL	NULL	NULL	NULL	NULL		13671	177	1	57	889	Chaos Order: Post Teenage Angst
@@ -2340,8 +2340,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 18051	177	13915	NULL	Black nationalism	NULL	NULL	NULL	NULL	NULL		13915	177	1	57	901	Black Revolution
 18081	177	13945	NULL	anarchism	NULL	NULL	NULL	NULL	NULL		13945	177	1	57	903	Black Star
 18084	177	13948	NULL	NULL	NULL	NULL	NULL	NULL	NULL		13948	177	1	57	901	Black Revolution
-18104	177	13967	NULL	Women\n	NULL	NULL	NULL	NULL	NULL		13967	177	1	57	905	Blu
-18105	177	13968	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		13968	177	1	57	905	Blu
+18104	177	13967	NULL	Women	NULL	NULL	NULL	NULL	NULL		13967	177	1	57	905	Blu
+18105	177	13968	NULL	Music	NULL	NULL	NULL	NULL	NULL		13968	177	1	57	905	Blu
 18106	177	13969	NULL	activism	NULL	NULL	NULL	NULL	NULL		13969	177	1	57	905	Blu
 18117	177	13980	NULL	African-American studies	NULL	NULL	NULL	NULL	NULL		13980	177	1	57	906	BLK
 18117	177	13980	NULL	African-American studies	NULL	NULL	NULL	NULL	NULL		13980	177	1	57	906	The National Black Lesbian and Gay Newsmagazine
@@ -2413,12 +2413,12 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 18398	177	14224	NULL	Black Lives Matter	NULL	NULL	NULL	NULL	NULL		14224	177	1	57	935	Equality for Flatbush March Against Gentrification, Racism & Police Violence
 18399	177	14225	NULL	police accountability	NULL	NULL	NULL	NULL	NULL		14225	177	1	57	935	Equality for Flatbush March Against Gentrification, Racism & Police Violence
 18400	177	14226	NULL	tenant rights	NULL	NULL	NULL	NULL	NULL		14226	177	1	57	935	Equality for Flatbush March Against Gentrification, Racism & Police Violence
-18413	177	14238	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		14238	177	1	57	936	Chickenhead Jesus Jesus Vomit Party
+18413	177	14238	NULL	comics	NULL	NULL	NULL	NULL	NULL		14238	177	1	57	936	Chickenhead Jesus Jesus Vomit Party
 18414	177	14239	NULL	NULL	NULL	NULL	NULL	NULL	NULL		14239	177	1	57	936	Chickenhead Jesus Jesus Vomit Party
-18426	177	14249	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		14249	177	1	57	937	Chickenhed Zine and Roll
-18427	177	14250	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		14250	177	1	57	937	Chickenhed Zine and Roll
+18426	177	14249	NULL	Music	NULL	NULL	NULL	NULL	NULL		14249	177	1	57	937	Chickenhed Zine and Roll
+18427	177	14250	NULL	Punk	NULL	NULL	NULL	NULL	NULL		14250	177	1	57	937	Chickenhed Zine and Roll
 18428	177	14251	NULL	poetry 	NULL	NULL	NULL	NULL	NULL		14251	177	1	57	937	Chickenhed Zine and Roll
-18429	177	14252	NULL	Memoirs\n\n	NULL	NULL	NULL	NULL	NULL		14252	177	1	57	937	Chickenhed Zine and Roll
+18429	177	14252	NULL	Memoirs	NULL	NULL	NULL	NULL	NULL		14252	177	1	57	937	Chickenhed Zine and Roll
 20043	177	15307	NULL	Columbia University	NULL	NULL	NULL	NULL	NULL		15307	177	1	57	1509	Rat: subterranean news
 20043	177	15307	NULL	Columbia University	NULL	NULL	NULL	NULL	NULL		15307	177	1	57	1509	Womens LibeRATion
 20059	177	15320	NULL	New York City	NULL	NULL	NULL	NULL	NULL		15320	177	1	57	1509	Rat: subterranean news
@@ -2433,16 +2433,16 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20063	177	15324	NULL	Drugs	NULL	NULL	NULL	NULL	NULL		15324	177	1	57	1509	Womens LibeRATion
 20064	177	15325	NULL	Counter-culture	NULL	NULL	NULL	NULL	NULL		15325	177	1	57	1509	Rat: subterranean news
 20064	177	15325	NULL	Counter-culture	NULL	NULL	NULL	NULL	NULL		15325	177	1	57	1509	Womens LibeRATion
-20065	177	15326	NULL	Yippies\n	NULL	NULL	NULL	NULL	NULL		15326	177	1	57	1509	Rat: subterranean news
-20065	177	15326	NULL	Yippies\n	NULL	NULL	NULL	NULL	NULL		15326	177	1	57	1509	Womens LibeRATion
+20065	177	15326	NULL	Yippies	NULL	NULL	NULL	NULL	NULL		15326	177	1	57	1509	Rat: subterranean news
+20065	177	15326	NULL	Yippies	NULL	NULL	NULL	NULL	NULL		15326	177	1	57	1509	Womens LibeRATion
 20116	177	15376	NULL	Labor strikes	NULL	NULL	NULL	NULL	NULL		15376	177	1	57	1509	Rat: subterranean news
 20116	177	15376	NULL	Labor strikes	NULL	NULL	NULL	NULL	NULL		15376	177	1	57	1509	Womens LibeRATion
 20117	177	15377	NULL	Black liberation movement	NULL	NULL	NULL	NULL	NULL		15377	177	1	57	1509	Rat: subterranean news
 20117	177	15377	NULL	Black liberation movement	NULL	NULL	NULL	NULL	NULL		15377	177	1	57	1509	Womens LibeRATion
 20118	177	15378	NULL	Anti-war movements	NULL	NULL	NULL	NULL	NULL		15378	177	1	57	1509	Rat: subterranean news
 20118	177	15378	NULL	Anti-war movements	NULL	NULL	NULL	NULL	NULL		15378	177	1	57	1509	Womens LibeRATion
-20119	177	15379	NULL	Political cartoons\n	NULL	NULL	NULL	NULL	NULL		15379	177	1	57	1509	Rat: subterranean news
-20119	177	15379	NULL	Political cartoons\n	NULL	NULL	NULL	NULL	NULL		15379	177	1	57	1509	Womens LibeRATion
+20119	177	15379	NULL	Political cartoons	NULL	NULL	NULL	NULL	NULL		15379	177	1	57	1509	Rat: subterranean news
+20119	177	15379	NULL	Political cartoons	NULL	NULL	NULL	NULL	NULL		15379	177	1	57	1509	Womens LibeRATion
 20120	177	15380	NULL	Black Panther Party	NULL	NULL	NULL	NULL	NULL		15380	177	1	57	1509	Rat: subterranean news
 20120	177	15380	NULL	Black Panther Party	NULL	NULL	NULL	NULL	NULL		15380	177	1	57	1509	Womens LibeRATion
 20122	177	15382	NULL	Berkeley, CA.	NULL	NULL	NULL	NULL	NULL		15382	177	1	57	1509	Rat: subterranean news
@@ -2453,12 +2453,12 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20124	177	15384	NULL	People's Park	NULL	NULL	NULL	NULL	NULL		15384	177	1	57	1509	Womens LibeRATion
 20125	177	15385	NULL	literature	NULL	NULL	NULL	NULL	NULL		15385	177	1	57	1509	Rat: subterranean news
 20125	177	15385	NULL	literature	NULL	NULL	NULL	NULL	NULL		15385	177	1	57	1509	Womens LibeRATion
-20126	177	15386	NULL	film criticism\n	NULL	NULL	NULL	NULL	NULL		15386	177	1	57	1509	Rat: subterranean news
-20126	177	15386	NULL	film criticism\n	NULL	NULL	NULL	NULL	NULL		15386	177	1	57	1509	Womens LibeRATion
-20127	177	15387	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		15387	177	1	57	1509	Rat: subterranean news
-20127	177	15387	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		15387	177	1	57	1509	Womens LibeRATion
-20140	177	15400	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		15400	177	1	57	1510	Barb On Strike
-20140	177	15400	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		15400	177	1	57	1510	Berkeley Tribe
+20126	177	15386	NULL	film criticism	NULL	NULL	NULL	NULL	NULL		15386	177	1	57	1509	Rat: subterranean news
+20126	177	15386	NULL	film criticism	NULL	NULL	NULL	NULL	NULL		15386	177	1	57	1509	Womens LibeRATion
+20127	177	15387	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		15387	177	1	57	1509	Rat: subterranean news
+20127	177	15387	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		15387	177	1	57	1509	Womens LibeRATion
+20140	177	15400	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		15400	177	1	57	1510	Barb On Strike
+20140	177	15400	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		15400	177	1	57	1510	Berkeley Tribe
 20141	177	15401	NULL	Anti-war	NULL	NULL	NULL	NULL	NULL		15401	177	1	57	1510	Barb On Strike
 20141	177	15401	NULL	Anti-war	NULL	NULL	NULL	NULL	NULL		15401	177	1	57	1510	Berkeley Tribe
 20142	177	15402	NULL	Drugs	NULL	NULL	NULL	NULL	NULL		15402	177	1	57	1510	Barb On Strike
@@ -2481,8 +2481,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20217	177	15477	NULL	American Indian Movement	NULL	NULL	NULL	NULL	NULL		15477	177	1	57	1510	Berkeley Tribe
 20218	177	15478	NULL	Weather Underground	NULL	NULL	NULL	NULL	NULL		15478	177	1	57	1510	Barb On Strike
 20218	177	15478	NULL	Weather Underground	NULL	NULL	NULL	NULL	NULL		15478	177	1	57	1510	Berkeley Tribe
-20245	177	15505	NULL	M.I.R.A.\n (Independent Armed Revolutionary Movement)	NULL	NULL	NULL	NULL	NULL		15505	177	1	57	1509	Rat: subterranean news
-20245	177	15505	NULL	M.I.R.A.\n (Independent Armed Revolutionary Movement)	NULL	NULL	NULL	NULL	NULL		15505	177	1	57	1509	Womens LibeRATion
+20245	177	15505	NULL	M.I.R.A. (Independent Armed Revolutionary Movement)	NULL	NULL	NULL	NULL	NULL		15505	177	1	57	1509	Rat: subterranean news
+20245	177	15505	NULL	M.I.R.A. (Independent Armed Revolutionary Movement)	NULL	NULL	NULL	NULL	NULL		15505	177	1	57	1509	Womens LibeRATion
 20246	177	15506	NULL	Puerto Rico	NULL	NULL	NULL	NULL	NULL		15506	177	1	57	1509	Rat: subterranean news
 20246	177	15506	NULL	Puerto Rico	NULL	NULL	NULL	NULL	NULL		15506	177	1	57	1509	Womens LibeRATion
 20247	177	15507	NULL	Brown liberation	NULL	NULL	NULL	NULL	NULL		15507	177	1	57	1509	Rat: subterranean news
@@ -2535,8 +2535,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20270	177	15530	NULL	Yoko Ono	NULL	NULL	NULL	NULL	NULL		15530	177	1	57	1509	Womens LibeRATion
 20271	177	15531	NULL	John Lennon	NULL	NULL	NULL	NULL	NULL		15531	177	1	57	1509	Rat: subterranean news
 20271	177	15531	NULL	John Lennon	NULL	NULL	NULL	NULL	NULL		15531	177	1	57	1509	Womens LibeRATion
-20272	177	15532	NULL	Bombings\n	NULL	NULL	NULL	NULL	NULL		15532	177	1	57	1509	Rat: subterranean news
-20272	177	15532	NULL	Bombings\n	NULL	NULL	NULL	NULL	NULL		15532	177	1	57	1509	Womens LibeRATion
+20272	177	15532	NULL	Bombings	NULL	NULL	NULL	NULL	NULL		15532	177	1	57	1509	Rat: subterranean news
+20272	177	15532	NULL	Bombings	NULL	NULL	NULL	NULL	NULL		15532	177	1	57	1509	Womens LibeRATion
 20280	177	15539	NULL	Black America	NULL	NULL	NULL	NULL	NULL		15539	177	1	57	1512	children of ex-slaves: the unfinished revolution
 20292	177	15550	NULL	Racism	NULL	NULL	NULL	NULL	NULL		15550	177	1	57	1513	Chop Suey Spex
 20293	177	15551	NULL	Asian American	NULL	NULL	NULL	NULL	NULL		15551	177	1	57	1513	Chop Suey Spex
@@ -2554,7 +2554,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20377	177	15628	NULL	PATRIOT Act	NULL	NULL	NULL	NULL	NULL		15628	177	1	57	1517	The CIA Makes Science Fiction Unexciting
 20380	177	15631	NULL	FBI	NULL	NULL	NULL	NULL	NULL		15631	177	1	57	1517	The CIA Makes Science Fiction Unexciting
 20381	177	15632	NULL	Puerto Rico	NULL	NULL	NULL	NULL	NULL		15632	177	1	57	1517	The CIA Makes Science Fiction Unexciting
-20404	177	15654	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		15654	177	1	57	1518	Cisnes Salvajes
+20404	177	15654	NULL	Punk	NULL	NULL	NULL	NULL	NULL		15654	177	1	57	1518	Cisnes Salvajes
 20405	177	15655	NULL	Chile	NULL	NULL	NULL	NULL	NULL		15655	177	1	57	1518	Cisnes Salvajes
 20414	177	15663	NULL	feminism	NULL	NULL	NULL	NULL	NULL		15663	177	1	57	1519	The City in the Female Gender
 20415	177	15664	NULL	NULL	NULL	NULL	NULL	NULL	NULL		15664	177	1	57	1519	The City in the Female Gender
@@ -2567,7 +2567,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20461	177	15704	NULL	Capitalism	NULL	NULL	NULL	NULL	NULL		15704	177	1	57	1521	Colours of resistance
 20462	177	15705	NULL	Neocolonialism	NULL	NULL	NULL	NULL	NULL		15705	177	1	57	1521	Colours of resistance
 20463	177	15706	NULL	Police and Policing	NULL	NULL	NULL	NULL	NULL		15706	177	1	57	1521	Colours of resistance
-20464	177	15707	NULL	immigration\n	NULL	NULL	NULL	NULL	NULL		15707	177	1	57	1521	Colours of resistance
+20464	177	15707	NULL	immigration	NULL	NULL	NULL	NULL	NULL		15707	177	1	57	1521	Colours of resistance
 20465	177	15708	NULL	identity	NULL	NULL	NULL	NULL	NULL		15708	177	1	57	1521	Colours of resistance
 20466	177	15709	NULL	solidarity	NULL	NULL	NULL	NULL	NULL		15709	177	1	57	1521	Colours of resistance
 20467	177	15710	NULL	feminism	NULL	NULL	NULL	NULL	NULL		15710	177	1	57	1521	Colours of resistance
@@ -2600,18 +2600,18 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20642	177	15849	NULL	travel	NULL	NULL	NULL	NULL	NULL		15849	177	1	57	1527	Conflagration 8
 20643	177	15850	NULL	dieting	NULL	NULL	NULL	NULL	NULL		15850	177	1	57	1527	Conflagration 8
 20644	177	15851	NULL	Zine reviews	NULL	NULL	NULL	NULL	NULL		15851	177	1	57	1527	Conflagration 8
-20645	177	15852	NULL	Family\n	NULL	NULL	NULL	NULL	NULL		15852	177	1	57	1527	Conflagration 8
+20645	177	15852	NULL	Family	NULL	NULL	NULL	NULL	NULL		15852	177	1	57	1527	Conflagration 8
 20646	177	15853	NULL	United States, Southern	NULL	NULL	NULL	NULL	NULL		15853	177	1	57	1527	Conflagration 8
 20647	177	15854	NULL	NULL	NULL	NULL	NULL	NULL	NULL		15854	177	1	57	1527	Conflagration 8
 20668	177	15869	NULL	vegans and vegan activism	NULL	NULL	NULL	NULL	NULL		15869	177	1	57	1531	cowaftercow
 20669	177	15870	NULL	Hardcore	NULL	NULL	NULL	NULL	NULL		15870	177	1	57	1531	cowaftercow
-20670	177	15871	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		15871	177	1	57	1531	cowaftercow
+20670	177	15871	NULL	Punk	NULL	NULL	NULL	NULL	NULL		15871	177	1	57	1531	cowaftercow
 20671	177	15872	NULL	Indie rock	NULL	NULL	NULL	NULL	NULL		15872	177	1	57	1531	cowaftercow
 20672	177	15873	NULL	personal 	NULL	NULL	NULL	NULL	NULL		15873	177	1	57	1531	cowaftercow
 20681	177	15882	NULL	anarchist	NULL	NULL	NULL	NULL	NULL		15882	177	1	57	1532	Countdown to Carmageddon
 20682	177	15883	NULL	oil	NULL	NULL	NULL	NULL	NULL		15883	177	1	57	1532	Countdown to Carmageddon
 20707	177	15904	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		15904	177	1	57	1534	Cracks in the concrete: A journal of anarchism
-20708	177	15905	NULL	immigration\n	NULL	NULL	NULL	NULL	NULL		15905	177	1	57	1534	Cracks in the concrete: A journal of anarchism
+20708	177	15905	NULL	immigration	NULL	NULL	NULL	NULL	NULL		15905	177	1	57	1534	Cracks in the concrete: A journal of anarchism
 20709	177	15906	NULL	atheism	NULL	NULL	NULL	NULL	NULL		15906	177	1	57	1534	Cracks in the concrete: A journal of anarchism
 20710	177	15907	NULL	Bill Hicks	NULL	NULL	NULL	NULL	NULL		15907	177	1	57	1534	Cracks in the concrete: A journal of anarchism
 20711	177	15908	NULL	Propagandhi	NULL	NULL	NULL	NULL	NULL		15908	177	1	57	1534	Cracks in the concrete: A journal of anarchism
@@ -2666,7 +2666,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 20989	177	16131	NULL	Zapatista	NULL	NULL	NULL	NULL	NULL		16131	177	1	57	1547	Cultivating the roots of resistance
 20990	177	16132	NULL	Palestine	NULL	NULL	NULL	NULL	NULL		16132	177	1	57	1547	Cultivating the roots of resistance
 20991	177	16133	NULL	NULL	NULL	NULL	NULL	NULL	NULL		16133	177	1	57	1547	Cultivating the roots of resistance
-21100	177	16237	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		16237	177	1	57	1551	Open City
+21100	177	16237	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		16237	177	1	57	1551	Open City
 21101	177	16238	NULL	Rock music	NULL	NULL	NULL	NULL	NULL		16238	177	1	57	1551	Open City
 21102	177	16239	NULL	Psychedelic culture	NULL	NULL	NULL	NULL	NULL		16239	177	1	57	1551	Open City
 21103	177	16240	NULL	Radical politics	NULL	NULL	NULL	NULL	NULL		16240	177	1	57	1551	Open City
@@ -2678,7 +2678,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21113	177	16249	NULL	Hippie Culture	NULL	NULL	NULL	NULL	NULL		16249	177	1	57	1550	The Chicago Seed
 21114	177	16250	NULL	Vietnam War	NULL	NULL	NULL	NULL	NULL		16250	177	1	57	1550	Seed
 21114	177	16250	NULL	Vietnam War	NULL	NULL	NULL	NULL	NULL		16250	177	1	57	1550	The Chicago Seed
-21124	177	16259	NULL	Alternative Press\n	NULL	NULL	NULL	NULL	NULL		16259	177	1	57	1552	Sunday Paper
+21124	177	16259	NULL	Alternative Press	NULL	NULL	NULL	NULL	NULL		16259	177	1	57	1552	Sunday Paper
 21125	177	16260	NULL	Comic	NULL	NULL	NULL	NULL	NULL		16260	177	1	57	1552	Sunday Paper
 21126	177	16261	NULL	Radical art	NULL	NULL	NULL	NULL	NULL		16261	177	1	57	1552	Sunday Paper
 21149	177	16281	NULL	Student organizing 	NULL	NULL	NULL	NULL	NULL		16281	177	1	57	1554	Cunytime : taking back our university
@@ -2710,9 +2710,9 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21271	177	16385	NULL	bicycle	NULL	NULL	NULL	NULL	NULL		16385	177	1	57	1562	Chicks United for Non-noxious Transportation
 21281	177	16393	NULL	NULL	NULL	NULL	NULL	NULL	NULL		16393	177	1	57	1563	cul-de-sac : the young adult issue
 21300	177	16409	NULL	personal 	NULL	NULL	NULL	NULL	NULL		16409	177	1	57	1564	dad.
-21333	177	16441	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		16441	177	1	57	1565	Cometbus
-21339	177	16447	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		16447	177	1	57	1566	dance of the dumb
-21339	177	16447	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		16447	177	1	57	1566	the first of more
+21333	177	16441	NULL	Punk	NULL	NULL	NULL	NULL	NULL		16441	177	1	57	1565	Cometbus
+21339	177	16447	NULL	comics	NULL	NULL	NULL	NULL	NULL		16447	177	1	57	1566	dance of the dumb
+21339	177	16447	NULL	comics	NULL	NULL	NULL	NULL	NULL		16447	177	1	57	1566	the first of more
 21340	177	16448	NULL	personal 	NULL	NULL	NULL	NULL	NULL		16448	177	1	57	1566	dance of the dumb
 21340	177	16448	NULL	personal 	NULL	NULL	NULL	NULL	NULL		16448	177	1	57	1566	the first of more
 21359	177	16464	NULL	sex work 	NULL	NULL	NULL	NULL	NULL		16464	177	1	57	1567	danzine
@@ -2723,8 +2723,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21392	177	16488	NULL	AIDS 	NULL	NULL	NULL	NULL	NULL		16488	177	1	57	1569	'David Wojnarowicz' in 'New York'
 21393	177	16489	NULL	Sexuality	NULL	NULL	NULL	NULL	NULL		16489	177	1	57	1569	'David Wojnarowicz' in 'New York'
 21394	177	16490	NULL	New York City	NULL	NULL	NULL	NULL	NULL		16490	177	1	57	1569	'David Wojnarowicz' in 'New York'
-21406	177	16500	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		16500	177	1	57	1570	A Day in the Air 
-21406	177	16500	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		16500	177	1	57	1570	ADITA
+21406	177	16500	NULL	Punk	NULL	NULL	NULL	NULL	NULL		16500	177	1	57	1570	A Day in the Air 
+21406	177	16500	NULL	Punk	NULL	NULL	NULL	NULL	NULL		16500	177	1	57	1570	ADITA
 21407	177	16501	NULL	Plays	NULL	NULL	NULL	NULL	NULL		16501	177	1	57	1570	A Day in the Air 
 21407	177	16501	NULL	Plays	NULL	NULL	NULL	NULL	NULL		16501	177	1	57	1570	ADITA
 21408	177	16502	NULL	NULL	NULL	NULL	NULL	NULL	NULL		16502	177	1	57	1570	A Day in the Air 
@@ -2761,7 +2761,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21658	177	16714	NULL	NULL	NULL	NULL	NULL	NULL	NULL		16714	177	1	57	1585	Deviant Recipes
 21684	177	16735	NULL	dishwashing	NULL	NULL	NULL	NULL	NULL		16735	177	1	57	1589	Dish-washer
 21698	177	16748	NULL	labor	NULL	NULL	NULL	NULL	NULL		16748	177	1	57	1590	[BLANK]
-21699	177	16749	NULL	Food industry\n	NULL	NULL	NULL	NULL	NULL		16749	177	1	57	1590	[BLANK]
+21699	177	16749	NULL	Food industry	NULL	NULL	NULL	NULL	NULL		16749	177	1	57	1590	[BLANK]
 21707	177	16757	NULL	labor	NULL	NULL	NULL	NULL	NULL		16757	177	1	57	1591	dish washer #14
 21708	177	16758	NULL	food industry	NULL	NULL	NULL	NULL	NULL		16758	177	1	57	1591	dish washer #14
 21709	177	16759	NULL	unions	NULL	NULL	NULL	NULL	NULL		16759	177	1	57	1591	dish washer #14
@@ -2769,7 +2769,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21725	177	16773	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		16773	177	1	57	1593	Desarme #8
 21726	177	16774	NULL	Anti-war	NULL	NULL	NULL	NULL	NULL		16774	177	1	57	1593	Desarme #8
 21727	177	16775	NULL	Anarcho-punk	NULL	NULL	NULL	NULL	NULL		16775	177	1	57	1593	Desarme #8
-21728	177	16776	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		16776	177	1	57	1593	Desarme #8
+21728	177	16776	NULL	Music	NULL	NULL	NULL	NULL	NULL		16776	177	1	57	1593	Desarme #8
 21729	177	16777	NULL	feminism	NULL	NULL	NULL	NULL	NULL		16777	177	1	57	1593	Desarme #8
 21730	177	16778	NULL	Disarmament	NULL	NULL	NULL	NULL	NULL		16778	177	1	57	1593	Desarme #8
 21746	177	16793	NULL	Anarchism	NULL	NULL	NULL	NULL	NULL		16793	177	1	57	1595	Dit Zine
@@ -2797,10 +2797,10 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21814	177	16853	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		16853	177	1	57	1602	by you, me, & her over there
 21814	177	16853	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		16853	177	1	57	1602	DO IT NOW
 21814	177	16853	NULL	anti-capitalism	NULL	NULL	NULL	NULL	NULL		16853	177	1	57	1602	WHAT A RIOT
-21820	177	16859	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		16859	177	1	57	1603	humanity will only be happy...
-21820	177	16859	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		16859	177	1	57	1603	The Domino Theory
-21821	177	16860	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		16860	177	1	57	1603	humanity will only be happy...
-21821	177	16860	NULL	comics\n	NULL	NULL	NULL	NULL	NULL		16860	177	1	57	1603	The Domino Theory
+21820	177	16859	NULL	Music	NULL	NULL	NULL	NULL	NULL		16859	177	1	57	1603	humanity will only be happy...
+21820	177	16859	NULL	Music	NULL	NULL	NULL	NULL	NULL		16859	177	1	57	1603	The Domino Theory
+21821	177	16860	NULL	comics	NULL	NULL	NULL	NULL	NULL		16860	177	1	57	1603	humanity will only be happy...
+21821	177	16860	NULL	comics	NULL	NULL	NULL	NULL	NULL		16860	177	1	57	1603	The Domino Theory
 21822	177	16861	NULL	Situationism	NULL	NULL	NULL	NULL	NULL		16861	177	1	57	1603	humanity will only be happy...
 21822	177	16861	NULL	Situationism	NULL	NULL	NULL	NULL	NULL		16861	177	1	57	1603	The Domino Theory
 21823	177	16862	NULL	photography	NULL	NULL	NULL	NULL	NULL		16862	177	1	57	1603	humanity will only be happy...
@@ -2838,7 +2838,7 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 21905	177	16937	NULL	William S Burroughs	NULL	NULL	NULL	NULL	NULL		16937	177	1	57	1612	Double Bill No 3
 21906	177	16938	NULL	Queer	NULL	NULL	NULL	NULL	NULL		16938	177	1	57	1612	Double Bill No 3
 21907	177	16939	NULL	Iconography	NULL	NULL	NULL	NULL	NULL		16939	177	1	57	1612	Double Bill No 3
-21908	177	16940	NULL	Punk\n	NULL	NULL	NULL	NULL	NULL		16940	177	1	57	1612	Double Bill No 3
+21908	177	16940	NULL	Punk	NULL	NULL	NULL	NULL	NULL		16940	177	1	57	1612	Double Bill No 3
 21909	177	16941	NULL	Anti-Misogyny	NULL	NULL	NULL	NULL	NULL		16941	177	1	57	1612	Double Bill No 3
 21924	177	16954	NULL	Drawing	NULL	NULL	NULL	NULL	NULL		16954	177	1	57	1614	draw your weapons
 21924	177	16954	NULL	Drawing	NULL	NULL	NULL	NULL	NULL		16954	177	1	57	1614	the sightseeing issue
@@ -2865,8 +2865,8 @@ value_id	element_id	attribute_id	item_id	value_longtext1	value_longtext2	value_b
 22002	177	17030	NULL	SHAC	NULL	NULL	NULL	NULL	NULL		17030	177	1	57	1619	Voices from the Ecological Resistance
 22024	177	17052	NULL	Perzine	NULL	NULL	NULL	NULL	NULL		17052	177	1	57	1622	doris
 22034	177	17060	NULL	NULL	NULL	NULL	NULL	NULL	NULL		17060	177	1	57	1623	The Duplex Planet
-22067	177	17086	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		17086	177	1	57	1626	Eaves of Ass
-22067	177	17086	NULL	Music\n	NULL	NULL	NULL	NULL	NULL		17086	177	1	57	1626	The Music Issue
+22067	177	17086	NULL	Music	NULL	NULL	NULL	NULL	NULL		17086	177	1	57	1626	Eaves of Ass
+22067	177	17086	NULL	Music	NULL	NULL	NULL	NULL	NULL		17086	177	1	57	1626	The Music Issue
 22076	177	17094	NULL	mental health	NULL	NULL	NULL	NULL	NULL		17094	177	1	57	1627	eightföld path.. FIVE
 22077	177	17095	NULL	Homophobia 	NULL	NULL	NULL	NULL	NULL		17095	177	1	57	1627	eightföld path.. FIVE
 22078	177	17096	NULL	NULL	NULL	NULL	NULL	NULL	NULL		17096	177	1	57	1627	eightföld path.. FIVE
