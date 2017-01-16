@@ -494,5 +494,85 @@
         "to": "prose"
       }
     ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "bonfiresbonfires"
+        ],
+        "to": "bonfires"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "death penaltydeath penalty"
+        ],
+        "to": "death penalty"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "g8 summitg8"
+        ],
+        "to": "g8 summit"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "happy birthdayhappy birthday"
+        ],
+        "to": "happy birthday"
+      }
+    ]
   }
 ]

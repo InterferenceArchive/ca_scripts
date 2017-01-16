@@ -243,7 +243,7 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 5948,177,3953,Hip hop,hip hop,1,57,170,It's O.K. (single)
 5956,177,3960,Hip hop,hip hop,1,57,171,Labor Days
 5957,177,3961,NULL,null,1,57,171,Labor Days
-5992,177,3983,death penaltydeath penalty,death penaltydeath penalty,1,57,172,No Death Penalty for Zolo Azania!!
+5992,177,3983,death penaltydeath penalty,death penalty,1,57,172,No Death Penalty for Zolo Azania!!
 5993,177,3984,political prisoners,political prisoners,1,57,172,No Death Penalty for Zolo Azania!!
 6040,177,4027,Hip Hop,hip hop,1,57,176,A2G EP
 6054,177,4040,Hip hop,hip hop,1,57,177,Overcast! EP
@@ -572,7 +572,7 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 8161,177,5637,Haydee Beltran Torres,haydee beltran torres,1,57,313,"New Movement in Solidarity with the Puerto Rican and Mexicano Revolutions, May 1982 "
 8167,177,5643,Mumia Abu-Jamal,mumia abu-jamal,1,57,314,Stop the Execution! Free Mumia Abu-Jamal!
 8168,177,5644,political prisoners,political prisoners,1,57,314,Stop the Execution! Free Mumia Abu-Jamal!
-8169,177,5645,death penaltydeath penalty,death penaltydeath penalty,1,57,314,Stop the Execution! Free Mumia Abu-Jamal!
+8169,177,5645,death penaltydeath penalty,death penalty,1,57,314,Stop the Execution! Free Mumia Abu-Jamal!
 8178,177,5653,San Francisco 8,san francisco 8,1,57,315,Free the SF8
 8179,177,5654,Black Panther Party (use for BPP),black panther party,1,57,315,Free the SF8
 8182,177,5657,political prisoners,political prisoners,1,57,315,Free the SF8
@@ -632,7 +632,7 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 8462,177,5894,political prisoners,political prisoners,1,57,336,FACE REALITY. There are Political Prisoners/ POWs in the U.S.A.!
 8467,177,5899,Mumia Abu-Jamal,mumia abu-jamal,1,57,337,Free Mumia! Campaign to End the Death Penalty 
 8468,177,5900,political prisoners,political prisoners,1,57,337,Free Mumia! Campaign to End the Death Penalty 
-8469,177,5901,death penaltydeath penalty,death penaltydeath penalty,1,57,337,Free Mumia! Campaign to End the Death Penalty 
+8469,177,5901,death penaltydeath penalty,death penalty,1,57,337,Free Mumia! Campaign to End the Death Penalty 
 8479,177,5910,Assata Shakur,assata shakur,1,57,338,FREE ASSATA SHAKUR (JOANNE CHESIMARD) break de chains
 8487,177,5918,Civil Rights Movement,civil rights movement,1,57,327,Voices of the Civil Rights Movement: Black American Freedom Songs 1960-1966
 8488,177,5919,Freedom songs,freedom songs,1,57,327,Voices of the Civil Rights Movement: Black American Freedom Songs 1960-1966
@@ -1012,7 +1012,7 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 10867,177,7869,LGBTQ,lgbtq,1,57,503,Your burrow runs deeper than your blade
 10868,177,7870,Gay Liberation,gay liberation,1,57,503,a recipe for gay triumphant utopias
 10868,177,7870,Gay Liberation,gay liberation,1,57,503,Your burrow runs deeper than your blade
-10869,177,7871,G8 summitG8,g8 summitg8,1,57,502,G8 TV: Heiligendamm 2007
+10869,177,7871,G8 summitG8,g8 summit,1,57,502,G8 TV: Heiligendamm 2007
 10904,177,7897,Prisons,prisons,1,57,506,Captive Nation: Black Prison Organizing in the Civil Rights Era
 10905,177,7898,Prison Movements,prison movements,1,57,506,Captive Nation: Black Prison Organizing in the Civil Rights Era
 10906,177,7899,Civil Rights Movement,civil rights movement,1,57,506,Captive Nation: Black Prison Organizing in the Civil Rights Era
@@ -1166,8 +1166,8 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 12028,177,8825,Occupation,occupation,1,57,572,Mai 68
 12082,177,8864,Anarcho-syndicalism,anarcho-syndicalism,1,57,573,not for consumption
 12082,177,8864,Anarcho-syndicalism,anarcho-syndicalism,1,57,573,test item to be deleted 8NOV2015
-12083,177,8865,BonfiresBonfires,bonfiresbonfires,1,57,573,not for consumption
-12083,177,8865,BonfiresBonfires,bonfiresbonfires,1,57,573,test item to be deleted 8NOV2015
+12083,177,8865,BonfiresBonfires,bonfires,1,57,573,not for consumption
+12083,177,8865,BonfiresBonfires,bonfires,1,57,573,test item to be deleted 8NOV2015
 12084,177,8866,Street,street,1,57,573,not for consumption
 12084,177,8866,Street,street,1,57,573,test item to be deleted 8NOV2015
 12221,177,8970,Riot grrrl,riot grrrl,1,57,574,Bikini Kill
@@ -1886,7 +1886,7 @@ value_id,element_id,attribute_id,subject_term_label,subject_term_value,locale_id
 15998,177,12098,NULL,null,1,57,778,and I am ready and waiting for THE BIG DAY and that one moment where I remember just what I need 
 15998,177,12098,NULL,null,1,57,778,The Big Day 
 16013,177,12109,punk rock culture,punk rock culture,1,57,779,Binocular Rebellious
-16047,177,12140,happy birthdayhappy birthday,happy birthdayhappy birthday,1,57,780,Birthday
+16047,177,12140,happy birthdayhappy birthday,happy birthday,1,57,780,Birthday
 16077,177,12168,Lesbians,lesbian,1,57,783,Bitte Liebling
 16078,177,12169,pornPorn,pornporn,1,57,783,Bitte Liebling
 16082,177,12173,art,art,1,57,781,Birdsong
