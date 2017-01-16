@@ -5,4 +5,4 @@ Notes from exploring how Collective Access stores and structures data in the dat
 
 ### NOTES
 
-- **subject_terms.md:** how are subject terms stored in Providence? How can we bulk edit them?
+- [**subject_terms:**](https://github.com/InterferenceArchive/ca_scripts/tree/master/notes/subject_terms) how are subject terms stored in Providence? How can we bulk edit them?
