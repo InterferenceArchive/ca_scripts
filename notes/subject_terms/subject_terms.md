@@ -23,7 +23,7 @@ Used this query to dump information about all subject terms and the objects they
 
     select cav.*, ca.*, ol.name from ca_attribute_values cav left join ca_attributes ca on (cav.attribute_id=ca.attribute_id) left join ca_object_labels ol on (ol.object_id=ca.row_id) where ca.element_id = 177;
 
-See [subject_terms_2016_12_11.csv]() (needs to be cleaned up)
+See [subject_terms_2016_12_11.csv](https://github.com/InterferenceArchive/ca_scripts/blob/master/notes/original/subject_terms_2016_12_11.csv) (needs to be cleaned up)
 
 
 ### Notes to the notes

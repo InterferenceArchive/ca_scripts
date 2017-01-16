@@ -1,0 +1,498 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column item_id",
+    "columnName": "item_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_longtext2",
+    "columnName": "value_longtext2"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_blob",
+    "columnName": "value_blob"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_decimal1",
+    "columnName": "value_decimal1"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_decimal2",
+    "columnName": "value_decimal2"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_integer1",
+    "columnName": "value_integer1"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column source_info",
+    "columnName": "source_info"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column attribute_id2",
+    "columnName": "attribute_id2"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column element_id2",
+    "columnName": "element_id2"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column row_id to object_id",
+    "oldColumnName": "row_id",
+    "newColumnName": "object_id"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column name to object_name",
+    "oldColumnName": "name",
+    "newColumnName": "object_name"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column table_num to objecttable_num",
+    "oldColumnName": "table_num",
+    "newColumnName": "objecttable_num"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column objecttable_num to object_table_num",
+    "oldColumnName": "objecttable_num",
+    "newColumnName": "object_table_num"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column value_longtext1 to subject_term",
+    "oldColumnName": "value_longtext1",
+    "newColumnName": "subject_term"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column subject_term using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column subject_term using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column subject_term_value at index 4 based on column subject_term using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "subject_term_value",
+    "columnInsertIndex": 4,
+    "baseColumnName": "subject_term",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column subject_term to subject_term_label",
+    "oldColumnName": "subject_term",
+    "newColumnName": "subject_term_label"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column subject_term_value using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "transportation",
+          "transportation transportation"
+        ],
+        "to": "transportation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "zines",
+          "zines zines"
+        ],
+        "to": "zines"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "anti-fascism",
+          "antifascism"
+        ],
+        "to": "anti-fascism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "non-violence",
+          "nonviolence"
+        ],
+        "to": "non-violence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "mumia abu-jamal",
+          "abu-jamal, mumia"
+        ],
+        "to": "mumia abu-jamal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "political comics",
+          "political comic"
+        ],
+        "to": "political comics"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "zapatistas",
+          "zapatista"
+        ],
+        "to": "zapatistas"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "riot grrrl",
+          "riot grrl"
+        ],
+        "to": "riot grrrl"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "occupy movement",
+          "occupy movements"
+        ],
+        "to": "occupy movement"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "bicycle",
+          "bicycles"
+        ],
+        "to": "bicycles"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "anarchism",
+          "anarchist"
+        ],
+        "to": "anarchism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "lesbian",
+          "lesbians"
+        ],
+        "to": "lesbian"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "tenants rights",
+          "tenant rights"
+        ],
+        "to": "tenants rights"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "strikes",
+          "strike"
+        ],
+        "to": "strikes"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "artist books",
+          "artist book"
+        ],
+        "to": "artist books"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "revolution",
+          "revolutions"
+        ],
+        "to": "revolution"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "general strike",
+          "general strikes"
+        ],
+        "to": "general strike"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "hip hop",
+          "hip-hop"
+        ],
+        "to": "hip hop"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "black panther party (use for bpp)",
+          "black panther party"
+        ],
+        "to": "black panther party"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "feminism",
+          "feminismfeminism"
+        ],
+        "to": "feminism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "anti-fascism",
+          "anti-fascismanti-fascism"
+        ],
+        "to": "anti-fascism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "gender",
+          "gendergender"
+        ],
+        "to": "gender"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "angela davis",
+          "angela davisangela davis"
+        ],
+        "to": "angela davis"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "folk songs",
+          "folk songsfolk songs"
+        ],
+        "to": "folk songs"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "anarchism",
+          "anarchismanarchism"
+        ],
+        "to": "anarchism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "graffiti",
+          "graffitigraffiti"
+        ],
+        "to": "graffiti"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "communism",
+          "communismcommunism"
+        ],
+        "to": "communism"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "comics",
+          "comicscomics"
+        ],
+        "to": "comics"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column subject_term_value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "subject_term_value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "queer",
+          "queers"
+        ],
+        "to": "queer"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "zines",
+          "zine"
+        ],
+        "to": "zines"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "prose proseprose",
+          "prose"
+        ],
+        "to": "prose"
+      }
+    ]
+  }
+]
