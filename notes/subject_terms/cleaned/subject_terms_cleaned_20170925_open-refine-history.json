@@ -1,0 +1,590 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column item_id",
+    "columnName": "item_id"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_blob",
+    "columnName": "value_blob"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column value_longtext2",
+    "columnName": "value_longtext2"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column value_longtext1 to value_longtext1_original",
+    "oldColumnName": "value_longtext1",
+    "newColumnName": "value_longtext1_original"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column value_longtext1_normal at index 4 based on column value_longtext1_original using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "value_longtext1_normal",
+    "columnInsertIndex": 4,
+    "baseColumnName": "value_longtext1_original",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Activism"
+        ],
+        "to": "Activism"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "activism"
+        ],
+        "to": "Activism"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "activism "
+        ],
+        "to": "Activism"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Music",
+          "Music ",
+          "music",
+          "music "
+        ],
+        "to": "Music"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Punk",
+          "Punk ",
+          "punk",
+          "punk "
+        ],
+        "to": "Punk"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anarchism",
+          "Anarchism ",
+          "anarchism",
+          "anarchism "
+        ],
+        "to": "Anarchism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Queer",
+          "Queer  ",
+          "queer"
+        ],
+        "to": "Queer"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hip hop",
+          "Hip Hop",
+          "hip hop"
+        ],
+        "to": "Hip Hop"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anti-racism",
+          "anti-racism"
+        ],
+        "to": "Anti-racism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "personal ",
+          "personal"
+        ],
+        "to": "personal "
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "lesbian",
+          "Lesbian"
+        ],
+        "to": "Lesbian"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Porn",
+          "porn"
+        ],
+        "to": "Porn"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Perzine",
+          "perzine"
+        ],
+        "to": "Perzine"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "antifa ",
+          "antifa"
+        ],
+        "to": "antifa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "sexism ",
+          "sexism"
+        ],
+        "to": "Sexism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "general strikes",
+          "General strikes"
+        ],
+        "to": "General Strikes"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Communism",
+          "communism"
+        ],
+        "to": "Communism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "May Day",
+          " May Day"
+        ],
+        "to": "May Day"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "poetry ",
+          "poetry"
+        ],
+        "to": "Poetry "
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "New York",
+          "new york"
+        ],
+        "to": "New York"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "feminism",
+          "Feminism"
+        ],
+        "to": "Feminism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Punk Rock",
+          "Punk rock"
+        ],
+        "to": "Punk Rock"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Animal Rights ",
+          "Animal Rights"
+        ],
+        "to": "Animal Rights "
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Women",
+          "women"
+        ],
+        "to": "Women"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "student debt",
+          "Student Debt"
+        ],
+        "to": "Student Debt"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "literature",
+          "Literature"
+        ],
+        "to": "Literature"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "violence",
+          "violence "
+        ],
+        "to": "violence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Prisons",
+          "prisons"
+        ],
+        "to": "Prisons"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "bisexuality",
+          "Bisexuality"
+        ],
+        "to": "Bisexuality"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cities",
+          "cities"
+        ],
+        "to": "Cities"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hardcore",
+          "hardcore "
+        ],
+        "to": "Hardcore"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "General Strike",
+          "General strike"
+        ],
+        "to": "General Strikes"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "art",
+          "Art"
+        ],
+        "to": "Art"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "cartoon",
+          "Cartoon"
+        ],
+        "to": "Cartoon"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sexuality",
+          "sexuality"
+        ],
+        "to": "Sexuality"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AIDS ",
+          "AIDS"
+        ],
+        "to": "AIDS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anti-fascism",
+          "antifascism"
+        ],
+        "to": "Anti-fascism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "high school",
+          "High School"
+        ],
+        "to": "High School"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Revolution",
+          "revolution"
+        ],
+        "to": "Revolution"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "non-violence",
+          "Nonviolence"
+        ],
+        "to": "Nonviolence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cars",
+          "cars"
+        ],
+        "to": "Cars"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pride",
+          "Pride "
+        ],
+        "to": "Pride"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "gender",
+          "gender "
+        ],
+        "to": "Gender"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Video activism",
+          "video activism"
+        ],
+        "to": "Video activism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Social Justice",
+          "social justice"
+        ],
+        "to": "Social Justice"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "theater",
+          "Theater"
+        ],
+        "to": "Theater"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "break-up",
+          "Break-up"
+        ],
+        "to": "Break-up"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Stories",
+          "stories"
+        ],
+        "to": "Stories"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "police accountability",
+          "Police Accountability"
+        ],
+        "to": "Police Accountability"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Occupy Movement",
+          "Occupy Movements"
+        ],
+        "to": "Occupy Movement"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "bicycle",
+          "Bicycles"
+        ],
+        "to": "Bicycles"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value_longtext1_normal",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "value_longtext1_normal",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Riot grrrl",
+          "Riot grrl "
+        ],
+        "to": "Riot Grrrl"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hip Hop",
+          "Hip-hop"
+        ],
+        "to": "Hip Hop"
+      }
+    ]
+  }
+]
